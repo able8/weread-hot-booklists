@@ -4,7 +4,6 @@
 
 >     《少年维特的烦恼》是歌德对自由意志的抒发，对真爱的无限向往，这是他对情感与心灵的结合做了最真善美的呈现。少年维特受过良好的教育，多情善感。一次舞会上他对少女绿蒂一见钟情，倆人互相爱慕，然而绿蒂却已经订婚。维特悲伤独自离开，力图从事业上得到解脱，有所成就。然而，污浊的环境、窒息自由的现存秩序，都使他无法忍受。当他怀才不遇地重返绿蒂身边时，发现绿蒂已结婚，绝望的他遂用一支手枪结束了自己的生命。
 
-
 ### PREFACE
 
 To his spirit and character you cannot refuse your admiration and love; to his fate you will not deny your tears. c:62

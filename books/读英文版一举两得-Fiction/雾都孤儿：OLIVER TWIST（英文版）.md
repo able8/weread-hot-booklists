@@ -4,7 +4,6 @@
 
 > 《雾都孤儿》狄更斯的第一部社会批判小说。《雾都孤儿》本书为英文原版，经典32开本便于随身携带阅读，精校版忠于原著。
 
-
 ### CHAPTER 1 TREATS OF THE PLACE WHERE OLIVER TWIST WAS BORN, AND OF THE CIRCUMSTANCES ATTENDING HIS BIRTH
 
 CIRCUMSTANCES c:15

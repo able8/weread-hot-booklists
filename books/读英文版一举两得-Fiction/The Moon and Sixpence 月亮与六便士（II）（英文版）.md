@@ -4,7 +4,6 @@ W. Somerset Maugham  -  原版书榜-英文原版
 
 > The Moon and Sixpence is a novel by W. Somerset Maugham first published in 1919. It is told in episodic form by a first-person narrator, in a series of glimpses into the mind and soul of the central character Charles Strickland, a middle-aged English stockbroker, who abandons his wife and children abruptly to pursue his desire to become an artist. The story is in part based on the life of the painter Paul Gauguin.
 
-
 ### 
 
 notwithstanding c:25

@@ -4,7 +4,6 @@ Terry Hawkins  -  原版书榜-英文原版
 
 > Popular speaker Terry Hawkins offers simple guidance and practical tools to help people break free of feelings and behaviors that are holding them back — being stuck in bad habits, feeling helpless or afraid, lacking motivation, being angry or depressed, or otherwise being "trapped in their pit."
 
-
 ### Dedication
 
 May the magic of her soul be sprinkled throughout all of our lives.﻿
