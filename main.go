@@ -114,9 +114,7 @@ func getBookLists() {
 
 			bestMark := getBestBookMarks(bookInfo, booklist.Name)
 			if bestMark.Totalcount > 10 {
-				fmt.Fprintln(f, "\n\t<details open><summary>"+strconv.Itoa(bestMark.Totalcount)+" people mark</summary>")
-				fmt.Fprintln(f, "\n\t"+bestMark.Marktext+"\n\t</details>")
-				// fmt.Fprintln(f, "\n\t</details>")
+				fmt.Fprintln(f, "\n\t> "+strconv.Itoa(bestMark.Totalcount)+" "+bestMark.Marktext)
 			}
 		}
 		fmt.Fprintln(f, "\n</details>")
