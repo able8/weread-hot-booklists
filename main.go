@@ -40,7 +40,7 @@ type Booklists struct {
 }
 
 type BookInfo struct {
-	BookID         string `json:"bookId"`
+	BookId         string `json:"bookId"`
 	Title          string `json:"title"`
 	Author         string `json:"author"`
 	Cover          string `json:"cover"`
@@ -83,40 +83,39 @@ func main() {
 }
 
 func getBookLists() {
-	result, err := requestAndSaveWeread("booklists", "https://i.weread.qq.com/market/booklists?count=200&type=0")
+	result, err := getAndSaveResponse("booklists", "https://i.weread.qq.com/market/booklists?count=200&type=0")
 	check(err)
 	var booklists Booklists
 	json.Unmarshal([]byte(result), &booklists)
 
-	fBooklists, err := os.Create("README.md")
+	f, err := os.Create("README.md")
 	check(err)
-	defer fBooklists.Close()
-	fmt.Fprintln(fBooklists, "# 微信读书热门收藏书单")
+	defer f.Close()
+	fmt.Fprintln(f, "# 微信读书热门收藏书单")
 
 	for index, booklist := range booklists.Booklists {
 		fmt.Println(index, booklist.BooklistId, booklist.CollectCount, booklist.Name, booklist.Description, booklist.TotalCount)
-		// fmt.Fprintln(fBooklists, "## "+booklist.BooklistId)
-		fmt.Fprintln(fBooklists, "\n### ", strconv.Itoa(index+1), booklist.Name)
-		fmt.Fprintln(fBooklists, "\n\n"+booklist.Description)
+		fmt.Fprintln(f, "\n###", strconv.Itoa(index+1), booklist.Name)
+		fmt.Fprintln(f, "\n"+booklist.Description)
 
 		bookIds, err := getBookList(booklist.BooklistId)
 		check(err)
-		fmt.Fprintln(fBooklists, "\n\n<details>\n<summary>"+strconv.Itoa(booklist.TotalCount)+" books, "+strconv.Itoa(booklist.CollectCount)+" likes"+"</summary>")
+		fmt.Fprintln(f, "\n<details>\n<summary>"+strconv.Itoa(booklist.TotalCount)+" books, "+strconv.Itoa(booklist.CollectCount)+" likes"+"</summary>")
 		for _, bookId := range bookIds {
 			bookInfo := getBookInfo(bookId)
 			booklist.Name = strings.ReplaceAll(booklist.Name, " ", "%20")
 			booklist.Name = strings.ReplaceAll(booklist.Name, "/", "-")
 			bookInfo.Title = strings.ReplaceAll(bookInfo.Title, "/", "-")
-			fmt.Fprintf(fBooklists, "\n1. [%s](books/%s/%s.md)", bookInfo.Title, booklist.Name, strings.ReplaceAll(bookInfo.Title, " ", "%20"))
+			fmt.Fprintf(f, "\n1. [%s](books/%s/%s.md)", bookInfo.Title, booklist.Name, strings.ReplaceAll(bookInfo.Title, " ", "%20"))
 			getBestBookMarks(bookInfo, booklist.Name)
 		}
-		fmt.Fprintln(fBooklists, "\n</details>")
+		fmt.Fprintln(f, "\n</details>")
 		// os.Exit(1)
 	}
 }
 
 func getBookInfo(bookId string) BookInfo {
-	result, err := requestAndSaveWeread(bookId+"-bookinfo", "https://i.weread.qq.com/book/info?bookId="+bookId)
+	result, err := getAndSaveResponse(bookId+"-bookinfo", "https://i.weread.qq.com/book/info?bookId="+bookId)
 	check(err)
 	var bookInfo BookInfo
 	json.Unmarshal([]byte(result), &bookInfo)
@@ -125,7 +124,7 @@ func getBookInfo(bookId string) BookInfo {
 }
 
 func getBookList(booklistId string) ([]string, error) {
-	result, err := requestAndSaveWeread(booklistId, "https://i.weread.qq.com/booklist/single?booklistId="+booklistId)
+	result, err := getAndSaveResponse(booklistId, "https://i.weread.qq.com/booklist/single?booklistId="+booklistId)
 	check(err)
 	var booklist Booklist
 	json.Unmarshal([]byte(result), &booklist)
@@ -133,11 +132,16 @@ func getBookList(booklistId string) ([]string, error) {
 	bl := booklist.Booklist.Booklist
 	bl.Name = strings.ReplaceAll(bl.Name, "/", "-")
 	bl.Name = strings.ReplaceAll(bl.Name, "%20", " ")
-	err = os.Mkdir("books/"+bl.Name, 0755)
-	return bl.BookIds, nil
+
+	path := "books/" + bl.Name
+	if _, err := os.Stat(path); os.IsNotExist(err) {
+		err := os.Mkdir(path, 0755)
+		check(err)
+	}
+	return bl.BookIds, err
 }
 
-func requestAndSaveWeread(id, URL string) ([]byte, error) {
+func getAndSaveResponse(id, URL string) ([]byte, error) {
 	fileName := "temp/" + id + ".json"
 	if _, err := os.Stat(fileName); os.IsNotExist(err) {
 		rawCookies, err := ioutil.ReadFile("cookie.txt")
@@ -176,7 +180,7 @@ func requestAndSaveWeread(id, URL string) ([]byte, error) {
 }
 
 func getBestBookMarks(bookInfo BookInfo, booklistName string) {
-	bookId := bookInfo.BookID
+	bookId := bookInfo.BookId
 
 	booklistName = strings.ReplaceAll(booklistName, "%20", " ")
 	booklistName = strings.ReplaceAll(booklistName, "/", "-")
@@ -184,11 +188,11 @@ func getBestBookMarks(bookInfo BookInfo, booklistName string) {
 	check(err)
 	defer f.Close()
 
-	fmt.Fprintf(f, "## "+bookInfo.Title)
-	fmt.Fprintln(f, "\n\n"+bookInfo.Author, " - ", bookInfo.Category)
+	fmt.Fprintln(f, "## "+bookInfo.Title)
+	fmt.Fprintln(f, "\n"+bookInfo.Author, " - ", bookInfo.Category)
 	fmt.Fprintln(f, "\n> "+bookInfo.Intro)
 
-	result, err := requestAndSaveWeread(bookId, "https://i.weread.qq.com/book/bestbookmarks?count=5000&bookId="+bookId)
+	result, err := getAndSaveResponse(bookId, "https://i.weread.qq.com/book/bestbookmarks?count=5000&bookId="+bookId)
 	check(err)
 
 	var bestBookMarks BestBookMarks
@@ -200,17 +204,16 @@ func getBestBookMarks(bookInfo BookInfo, booklistName string) {
 	})
 
 	sort.Slice(bestBookMarks.Items, func(i, j int) bool {
-		rang1, _ := strconv.Atoi(strings.Split(bestBookMarks.Items[i].Range, "-")[0])
-		rang2, _ := strconv.Atoi(strings.Split(bestBookMarks.Items[j].Range, "-")[0])
-		return rang1 < rang2
+		range1, _ := strconv.Atoi(strings.Split(bestBookMarks.Items[i].Range, "-")[0])
+		range2, _ := strconv.Atoi(strings.Split(bestBookMarks.Items[j].Range, "-")[0])
+		return range1 < range2
 	})
 
 	for _, v := range bestBookMarks.Chapters {
-		fmt.Fprintf(f, "\n\n### %s", v.Title)
-
+		fmt.Fprintln(f, "\n###", v.Title)
 		for i := 0; i < len(bestBookMarks.Items); i++ {
 			if bestBookMarks.Items[i].Chapteruid == v.Chapteruid {
-				fmt.Fprintf(f, "\n\n"+bestBookMarks.Items[i].Marktext+" c:"+strconv.Itoa(bestBookMarks.Items[i].Totalcount))
+				fmt.Fprintln(f, "\n"+bestBookMarks.Items[i].Marktext+" c:"+strconv.Itoa(bestBookMarks.Items[i].Totalcount))
 			}
 		}
 	}
