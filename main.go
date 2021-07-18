@@ -103,7 +103,10 @@ func getBookLists() {
 		bookIds, err := getBookList(booklist.BooklistId)
 		check(err)
 		fmt.Fprintln(f, "\n<details>\n<summary>"+strconv.Itoa(booklist.TotalCount)+" books, "+strconv.Itoa(booklist.CollectCount)+" likes"+"</summary>")
-		for _, bookId := range bookIds {
+		for index, bookId := range bookIds {
+			if index > 50 {
+				break
+			}
 			bookInfo := getBookInfo(bookId)
 			booklist.Name = strings.TrimSpace(booklist.Name)
 			booklist.Name = strings.ReplaceAll(booklist.Name, " ", "%20")
