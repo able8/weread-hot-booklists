@@ -1359,7 +1359,21 @@
 	</details>
 
 1. [冬天里的春天（茅盾文学奖获奖作品）](books/茅盾文学奖/冬天里的春天（茅盾文学奖获奖作品）.md)
+	<details open>
+	<summary>16 marks </summary>
+
+	 善于撒谎的人，哪怕瞒天过海，也绝不露馅，关键就在于前者怀疑自己是假的，而后者相信自己是真的
+
+	</details>
+
 1. [将军吟](books/茅盾文学奖/将军吟.md)
+	<details open>
+	<summary>20 marks </summary>
+
+	 与其做一个高贵的附属品，还不如做一根自立于泥土的野艾蒿。
+
+	</details>
+
 1. [李自成（茅盾文学奖获奖作品）](books/茅盾文学奖/李自成（茅盾文学奖获奖作品）.md)
 	<details open>
 	<summary>223 marks </summary>
@@ -4578,6 +4592,13 @@
 	</details>
 
 1. [水浒后传](books/古代文学/水浒后传.md)
+	<details open>
+	<summary>17 marks </summary>
+
+	 从来亡国之君，多是极伶俐的，只为高居九重，朝欢暮乐，哪知民间疾苦！又被奸臣弄权，说道四海升平，万方宁静，一概水旱灾荒、盗贼生发皆不上闻，或有忠臣谏诤，反说他谤毁朝廷，诛流贬责。一朝变起，再无忠直之臣与他分忧出力，所以土崩瓦解，不可挽回。
+
+	</details>
+
 1. [周礼（中华经典名著全本全注全译丛书）](books/古代文学/周礼（中华经典名著全本全注全译丛书）.md)
 	<details open>
 	<summary>33 marks </summary>
@@ -4806,6 +4827,13 @@
 	</details>
 
 1. [国语](books/古代文学/国语.md)
+	<details open>
+	<summary>18 marks </summary>
+
+	 周鲁多平衍，晋楚多尖颖，吴楚多恣放。
+
+	</details>
+
 1. [长生殿（精注插图本）](books/古代文学/长生殿（精注插图本）.md)
 	<details open>
 	<summary>651 marks </summary>
@@ -5085,6 +5113,13 @@
 	</details>
 
 1. [论语全鉴（第2版）](books/古代文学/论语全鉴（第2版）.md)
+	<details open>
+	<summary>17 marks </summary>
+
+	 意大利诗人但丁曾说过：“一个知识不全的人可以用道德去弥补，而一个道德不全的人却难于用知识去弥补。”
+
+	</details>
+
 1. [庄子大全集](books/古代文学/庄子大全集.md)
 	<details open>
 	<summary>28 marks </summary>
@@ -6141,7 +6176,7 @@
 <details>
 <summary>25 books, 11387 likes</summary>
 
-1. [人体的秘密](books/让人相见恨晚的科普书		/人体的秘密.md)
+1. [人体的秘密](books/让人相见恨晚的科普书/人体的秘密.md)
 	<details open>
 	<summary>712 marks </summary>
 
@@ -6149,7 +6184,7 @@
 
 	</details>
 
-1. [迷人的材料](books/让人相见恨晚的科普书		/迷人的材料.md)
+1. [迷人的材料](books/让人相见恨晚的科普书/迷人的材料.md)
 	<details open>
 	<summary>566 marks </summary>
 
@@ -6157,8 +6192,8 @@
 
 	</details>
 
-1. [从一到无穷大](books/让人相见恨晚的科普书		/从一到无穷大.md)
-1. [大灭绝时代](books/让人相见恨晚的科普书		/大灭绝时代.md)
+1. [从一到无穷大](books/让人相见恨晚的科普书/从一到无穷大.md)
+1. [大灭绝时代](books/让人相见恨晚的科普书/大灭绝时代.md)
 	<details open>
 	<summary>151 marks </summary>
 
@@ -6166,7 +6201,7 @@
 
 	</details>
 
-1. [上帝掷骰子吗？：量子物理史话（升级版）](books/让人相见恨晚的科普书		/上帝掷骰子吗？：量子物理史话（升级版）.md)
+1. [上帝掷骰子吗？：量子物理史话（升级版）](books/让人相见恨晚的科普书/上帝掷骰子吗？：量子物理史话（升级版）.md)
 	<details open>
 	<summary>2473 marks </summary>
 
@@ -6174,7 +6209,7 @@
 
 	</details>
 
-1. [星际穿越](books/让人相见恨晚的科普书		/星际穿越.md)
+1. [星际穿越](books/让人相见恨晚的科普书/星际穿越.md)
 	<details open>
 	<summary>396 marks </summary>
 
@@ -6182,8 +6217,8 @@
 
 	</details>
 
-1. [13次时空穿梭之旅](books/让人相见恨晚的科普书		/13次时空穿梭之旅.md)
-1. [黑洞与时间弯曲](books/让人相见恨晚的科普书		/黑洞与时间弯曲.md)
+1. [13次时空穿梭之旅](books/让人相见恨晚的科普书/13次时空穿梭之旅.md)
+1. [黑洞与时间弯曲](books/让人相见恨晚的科普书/黑洞与时间弯曲.md)
 	<details open>
 	<summary>133 marks </summary>
 
@@ -6191,7 +6226,7 @@
 
 	</details>
 
-1. [七堂极简物理课](books/让人相见恨晚的科普书		/七堂极简物理课.md)
+1. [七堂极简物理课](books/让人相见恨晚的科普书/七堂极简物理课.md)
 	<details open>
 	<summary>2309 marks </summary>
 
@@ -6199,7 +6234,7 @@
 
 	</details>
 
-1. [植物知道生命的答案（修订珍藏本）](books/让人相见恨晚的科普书		/植物知道生命的答案（修订珍藏本）.md)
+1. [植物知道生命的答案（修订珍藏本）](books/让人相见恨晚的科普书/植物知道生命的答案（修订珍藏本）.md)
 	<details open>
 	<summary>484 marks </summary>
 
@@ -6207,9 +6242,9 @@
 
 	</details>
 
-1. [杂草的故事](books/让人相见恨晚的科普书		/杂草的故事.md)
-1. [自私的基因+癌症传（套装共2册）](books/让人相见恨晚的科普书		/自私的基因+癌症传（套装共2册）.md)
-1. [永生的海拉](books/让人相见恨晚的科普书		/永生的海拉.md)
+1. [杂草的故事](books/让人相见恨晚的科普书/杂草的故事.md)
+1. [自私的基因+癌症传（套装共2册）](books/让人相见恨晚的科普书/自私的基因+癌症传（套装共2册）.md)
+1. [永生的海拉](books/让人相见恨晚的科普书/永生的海拉.md)
 	<details open>
 	<summary>161 marks </summary>
 
@@ -6217,7 +6252,7 @@
 
 	</details>
 
-1. [病毒星球](books/让人相见恨晚的科普书		/病毒星球.md)
+1. [病毒星球](books/让人相见恨晚的科普书/病毒星球.md)
 	<details open>
 	<summary>2524 marks </summary>
 
@@ -6225,7 +6260,7 @@
 
 	</details>
 
-1. [消失的微生物：滥用抗生素引发的健康危机](books/让人相见恨晚的科普书		/消失的微生物：滥用抗生素引发的健康危机.md)
+1. [消失的微生物：滥用抗生素引发的健康危机](books/让人相见恨晚的科普书/消失的微生物：滥用抗生素引发的健康危机.md)
 	<details open>
 	<summary>504 marks </summary>
 
@@ -6233,8 +6268,8 @@
 
 	</details>
 
-1. [猿猴家书：我们为什么没有进化成人](books/让人相见恨晚的科普书		/猿猴家书：我们为什么没有进化成人.md)
-1. [人类尸体的奇异生活](books/让人相见恨晚的科普书		/人类尸体的奇异生活.md)
+1. [猿猴家书：我们为什么没有进化成人](books/让人相见恨晚的科普书/猿猴家书：我们为什么没有进化成人.md)
+1. [人类尸体的奇异生活](books/让人相见恨晚的科普书/人类尸体的奇异生活.md)
 	<details open>
 	<summary>248 marks </summary>
 
@@ -6242,7 +6277,7 @@
 
 	</details>
 
-1. [海洋与文明](books/让人相见恨晚的科普书		/海洋与文明.md)
+1. [海洋与文明](books/让人相见恨晚的科普书/海洋与文明.md)
 	<details open>
 	<summary>85 marks </summary>
 
@@ -6250,7 +6285,7 @@
 
 	</details>
 
-1. [地理学与生活](books/让人相见恨晚的科普书		/地理学与生活.md)
+1. [地理学与生活](books/让人相见恨晚的科普书/地理学与生活.md)
 	<details open>
 	<summary>2861 marks </summary>
 
@@ -6258,7 +6293,7 @@
 
 	</details>
 
-1. [那些古怪又让人忧心的问题](books/让人相见恨晚的科普书		/那些古怪又让人忧心的问题.md)
+1. [那些古怪又让人忧心的问题](books/让人相见恨晚的科普书/那些古怪又让人忧心的问题.md)
 	<details open>
 	<summary>341 marks </summary>
 
@@ -6266,7 +6301,7 @@
 
 	</details>
 
-1. [信息简史](books/让人相见恨晚的科普书		/信息简史.md)
+1. [信息简史](books/让人相见恨晚的科普书/信息简史.md)
 	<details open>
 	<summary>377 marks </summary>
 
@@ -6274,7 +6309,7 @@
 
 	</details>
 
-1. [极简科学史](books/让人相见恨晚的科普书		/极简科学史.md)
+1. [极简科学史](books/让人相见恨晚的科普书/极简科学史.md)
 	<details open>
 	<summary>199 marks </summary>
 
@@ -6282,7 +6317,7 @@
 
 	</details>
 
-1. [我包罗万象](books/让人相见恨晚的科普书		/我包罗万象.md)
+1. [我包罗万象](books/让人相见恨晚的科普书/我包罗万象.md)
 	<details open>
 	<summary>232 marks </summary>
 
@@ -6290,8 +6325,8 @@
 
 	</details>
 
-1. [自然的音符：118种化学元素的故事](books/让人相见恨晚的科普书		/自然的音符：118种化学元素的故事.md)
-1. [星空帝国：中国古代星宿揭秘](books/让人相见恨晚的科普书		/星空帝国：中国古代星宿揭秘.md)
+1. [自然的音符：118种化学元素的故事](books/让人相见恨晚的科普书/自然的音符：118种化学元素的故事.md)
+1. [星空帝国：中国古代星宿揭秘](books/让人相见恨晚的科普书/星空帝国：中国古代星宿揭秘.md)
 	<details open>
 	<summary>103 marks </summary>
 
@@ -6325,6 +6360,13 @@
 	</details>
 
 1. [葬礼之后](books/阿加莎克里斯蒂/葬礼之后.md)
+	<details open>
+	<summary>15 marks </summary>
+
+	 必须交谈，大量的交谈。因为只要拉长战线，无论是透过谎言，还是透过实话，人们总会把自己出卖……
+
+	</details>
+
 1. [悬崖山庄奇案](books/阿加莎克里斯蒂/悬崖山庄奇案.md)
 	<details open>
 	<summary>115 marks </summary>
@@ -6358,6 +6400,13 @@
 	</details>
 
 1. [古墓之谜](books/阿加莎克里斯蒂/古墓之谜.md)
+	<details open>
+	<summary>14 marks </summary>
+
+	 布丁好不好吃，只有吃的时候才知道。
+
+	</details>
+
 1. [人性记录](books/阿加莎克里斯蒂/人性记录.md)
 	<details open>
 	<summary>194 marks </summary>
@@ -6894,6 +6943,13 @@
 	</details>
 
 1. [荀子：儒学主流的真正塑造者](books/诸子百家/荀子：儒学主流的真正塑造者.md)
+	<details open>
+	<summary>16 marks </summary>
+
+	 荀子的中心意识，和孔、孟大不相同的，他主张礼是人为的，不是出于自然、共通天性。孟子的圣人的智慧在于整理、统合了人人皆有的内在礼的精神秩序，使其外在制度化。荀子的圣人，和一般人之间有不可跨越的差距，是靠他们的圣性、超越的智慧将礼创造出来。
+
+	</details>
+
 1. [史记（公版）](books/诸子百家/史记（公版）.md)
 	<details open>
 	<summary>397 marks </summary>
@@ -9388,6 +9444,13 @@
 1. [奥瑟罗：英汉对照（莎士比亚悲剧系列）](books/最权威莎士比亚全集/奥瑟罗：英汉对照（莎士比亚悲剧系列）.md)
 1. [科利奥兰纳斯：英汉对照（莎士比亚悲剧系列）](books/最权威莎士比亚全集/科利奥兰纳斯：英汉对照（莎士比亚悲剧系列）.md)
 1. [李尔王：英汉对照（莎士比亚悲剧系列）](books/最权威莎士比亚全集/李尔王：英汉对照（莎士比亚悲剧系列）.md)
+	<details open>
+	<summary>20 marks </summary>
+
+	 这是时代的痛苦：疯子领着瞎子走。
+
+	</details>
+
 1. [罗密欧与朱丽叶：英汉对照（莎士比亚悲剧系列）](books/最权威莎士比亚全集/罗密欧与朱丽叶：英汉对照（莎士比亚悲剧系列）.md)
 	<details open>
 	<summary>23 marks </summary>
@@ -10150,6 +10213,14 @@
 <summary>30 books, 5829 likes</summary>
 
 1. [消费心理学](books/销售心理学/消费心理学.md)
+	<details open>
+	<summary>17 marks </summary>
+
+	 心理过程是指人的心理活动发生、发展和完成的过程。它包括认识过程、情感过程、意志过程三个方面。 
+
+
+	</details>
+
 1. [销售：你不可不知的心理学秘密](books/销售心理学/销售：你不可不知的心理学秘密.md)
 	<details open>
 	<summary>2986 marks </summary>
@@ -10299,6 +10370,13 @@
 	</details>
 
 1. [一本书读懂销售心理学](books/销售心理学/一本书读懂销售心理学.md)
+	<details open>
+	<summary>16 marks </summary>
+
+	 在性急的客户连珠炮似的向你发问时，你一定要听清楚对方的问题，可以先和他谈结论，不必过多的谈理由；当你把消费者的注意力吸引到你的话题上时，要尽量说明你认为紧要的理由，要长话短说，多用动词，少用形容词，语言要简短有力，
+
+	</details>
+
 1. [问对了就能成交：提问式销售的方法与技巧](books/销售心理学/问对了就能成交：提问式销售的方法与技巧.md)
 	<details open>
 	<summary>174 marks </summary>
@@ -11183,6 +11261,13 @@
 	</details>
 
 1. [冬天里的春天（茅盾文学奖获奖作品）](books/茅盾文学奖/冬天里的春天（茅盾文学奖获奖作品）.md)
+	<details open>
+	<summary>16 marks </summary>
+
+	 善于撒谎的人，哪怕瞒天过海，也绝不露馅，关键就在于前者怀疑自己是假的，而后者相信自己是真的
+
+	</details>
+
 1. [芙蓉镇（刘晓庆、姜文主演）](books/茅盾文学奖/芙蓉镇（刘晓庆、姜文主演）.md)
 	<details open>
 	<summary>950 marks </summary>
@@ -11200,6 +11285,13 @@
 	</details>
 
 1. [将军吟](books/茅盾文学奖/将军吟.md)
+	<details open>
+	<summary>20 marks </summary>
+
+	 与其做一个高贵的附属品，还不如做一根自立于泥土的野艾蒿。
+
+	</details>
+
 1. [东方](books/茅盾文学奖/东方.md)
 1. [许茂和他的女儿们](books/茅盾文学奖/许茂和他的女儿们.md)
 	<details open>
@@ -12286,6 +12378,13 @@ When you become a leader, success is all about growing others.
 	</details>
 
 1. [包法利夫人（英文版）](books/读英文版一举两得-Fiction/包法利夫人（英文版）.md)
+	<details open>
+	<summary>17 marks </summary>
+
+	 countenance
+
+	</details>
+
 1. [一千零一夜（英文版）](books/读英文版一举两得-Fiction/一千零一夜（英文版）.md)
 	<details open>
 	<summary>40 marks </summary>
@@ -13892,6 +13991,13 @@ When you become a leader, success is all about growing others.
 	</details>
 
 1. [商业模式案例与公案教学（第一季）](books/经济-金融类%20%20%20书单（7～9分书）/商业模式案例与公案教学（第一季）.md)
+	<details open>
+	<summary>17 marks </summary>
+
+	 商业模式的实质就是获取客户，并黏住客户。
+
+	</details>
+
 1. [好战略，坏战略（畅销版）](books/经济-金融类%20%20%20书单（7～9分书）/好战略，坏战略（畅销版）.md)
 	<details open>
 	<summary>2467 marks </summary>
@@ -13925,6 +14031,13 @@ When you become a leader, success is all about growing others.
 	</details>
 
 1. [师说：人文经济学](books/经济-金融类%20%20%20书单（7～9分书）/师说：人文经济学.md)
+	<details open>
+	<summary>19 marks </summary>
+
+	 非合作博弈研究的是每个人独立决策的结果会是什么样的。
+
+	</details>
+
 1. [中国顶级私募访谈录](books/经济-金融类%20%20%20书单（7～9分书）/中国顶级私募访谈录.md)
 	<details open>
 	<summary>932 marks </summary>
@@ -15400,6 +15513,13 @@ When you become a leader, success is all about growing others.
 	</details>
 
 1. [东印度公司与亚洲之海（讲谈社·兴亡的世界史 09）](books/讲谈社·兴亡的世界史系列/东印度公司与亚洲之海（讲谈社·兴亡的世界史%2009）.md)
+	<details open>
+	<summary>20 marks </summary>
+
+	 信息鸿沟早晚会招致重大的后果，这一点不管在现在还是过去都是一样。
+
+	</details>
+
 </details>
 
 ### 73 人物传记
@@ -16726,6 +16846,13 @@ When you become a leader, success is all about growing others.
 	</details>
 
 1. [叠加体验：用互联网思维设计商业模式](books/成为产品经理/叠加体验：用互联网思维设计商业模式.md)
+	<details open>
+	<summary>17 marks </summary>
+
+	 知识经济带来了一个重要的变化：即产品边际成本为零，可以被无穷复制，并借由互联网进行传播￼
+
+	</details>
+
 1. [腾讯方法：一个市值1500亿美元公司的产品真经](books/成为产品经理/腾讯方法：一个市值1500亿美元公司的产品真经.md)
 	<details open>
 	<summary>333 marks </summary>
@@ -19797,6 +19924,13 @@ When you become a leader, success is all about growing others.
 1. [《难经本义》校注](books/中医学典籍/《难经本义》校注.md)
 1. [难经语译](books/中医学典籍/难经语译.md)
 1. [难经（四库全书）](books/中医学典籍/难经（四库全书）.md)
+	<details open>
+	<summary>18 marks </summary>
+
+	 凡经络之所出为井，所留为荣，所注为俞，所过为原，所行为经，所入为合
+
+	</details>
+
 1. [本经疏证](books/中医学典籍/本经疏证.md)
 1. [步入《伤寒论》之门](books/中医学典籍/步入《伤寒论》之门.md)
 1. [中药趣记速认有捷径](books/中医学典籍/中药趣记速认有捷径.md)
@@ -19804,6 +19938,13 @@ When you become a leader, success is all about growing others.
 1. [中华药酒精选800方](books/中医学典籍/中华药酒精选800方.md)
 1. [图解偏方秘方](books/中医学典籍/图解偏方秘方.md)
 1. [通俗中医诊断六十四讲](books/中医学典籍/通俗中医诊断六十四讲.md)
+	<details open>
+	<summary>13 marks </summary>
+
+	 望神的重点包括四方面：一个是眼睛，就是两目；一个是神情，或者叫表情；一个是气色；一个是体态。
+
+	</details>
+
 1. [图解《神农本草经》](books/中医学典籍/图解《神农本草经》.md)
 1. [常见病中医处方手册（第二版）](books/中医学典籍/常见病中医处方手册（第二版）.md)
 1. [中医入门捷径：方剂必背轻松记](books/中医学典籍/中医入门捷径：方剂必背轻松记.md)
@@ -20162,6 +20303,13 @@ When you become a leader, success is all about growing others.
 
 1. [吴中朝 100个对症穴位方](books/中医学典籍/吴中朝%20100个对症穴位方.md)
 1. [针灸甲乙经](books/中医学典籍/针灸甲乙经.md)
+	<details open>
+	<summary>20 marks </summary>
+
+	 五脏不和，则九窍不通；六府不和，则留结为痈。故邪在府，则阳脉不合；阳脉不和，则气留之；气留之，则阳气盛矣。邪在脏，则阴脉不和；阴脉不和，则血留之；血留之，则阴气盛矣。阴气太盛，则阳气不得相营也，故曰关。阳气太盛，则阴气弗能荣也，故曰格，阴阳俱盛，不得自相营也，故曰关格。关格者，不得尽期而死矣。
+
+	</details>
+
 1. [金匮要略使用手册](books/中医学典籍/金匮要略使用手册.md)
 1. [陈烨文孙达中医学习组](books/中医学典籍/陈烨文孙达中医学习组.md)
 1. [药性歌括四百味白话解（第7版）](books/中医学典籍/药性歌括四百味白话解（第7版）.md)

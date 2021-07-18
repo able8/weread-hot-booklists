@@ -105,8 +105,10 @@ func getBookLists() {
 		fmt.Fprintln(f, "\n<details>\n<summary>"+strconv.Itoa(booklist.TotalCount)+" books, "+strconv.Itoa(booklist.CollectCount)+" likes"+"</summary>")
 		for _, bookId := range bookIds {
 			bookInfo := getBookInfo(bookId)
+			booklist.Name = strings.TrimSpace(booklist.Name)
 			booklist.Name = strings.ReplaceAll(booklist.Name, " ", "%20")
 			booklist.Name = strings.ReplaceAll(booklist.Name, "/", "-")
+
 			bookInfo.Title = strings.ReplaceAll(bookInfo.Title, "/", "-")
 			fmt.Fprintf(f, "\n1. [%s](books/%s/%s.md)", bookInfo.Title, booklist.Name, strings.ReplaceAll(bookInfo.Title, " ", "%20"))
 
@@ -138,6 +140,7 @@ func getBookList(booklistId string) ([]string, error) {
 	json.Unmarshal([]byte(result), &booklist)
 
 	bl := booklist.Booklist.Booklist
+	bl.Name = strings.TrimSpace(bl.Name)
 	bl.Name = strings.ReplaceAll(bl.Name, "/", "-")
 	bl.Name = strings.ReplaceAll(bl.Name, "%20", " ")
 
