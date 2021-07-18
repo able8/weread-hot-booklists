@@ -104,7 +104,7 @@ func getBookLists() {
 		check(err)
 		fmt.Fprintln(f, "\n<details>\n<summary>"+strconv.Itoa(booklist.TotalCount)+" books, "+strconv.Itoa(booklist.CollectCount)+" likes"+"</summary>")
 		for index, bookId := range bookIds {
-			if index > 50 {
+			if index > 30 {
 				break
 			}
 			bookInfo := getBookInfo(bookId)
@@ -116,7 +116,7 @@ func getBookLists() {
 			fmt.Fprintf(f, "\n1. [%s](books/%s/%s.md)", bookInfo.Title, booklist.Name, strings.ReplaceAll(bookInfo.Title, " ", "%20"))
 
 			bestMark := getBestBookMarks(bookInfo, booklist.Name)
-			if bestMark.Totalcount > 10 {
+			if bestMark.Totalcount > 300 {
 				fmt.Fprintln(f, "\n\t> "+strconv.Itoa(bestMark.Totalcount)+" "+bestMark.Marktext)
 			}
 		}
