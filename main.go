@@ -149,25 +149,20 @@ func getAndSaveResponse(id, URL string) ([]byte, error) {
 
 		rawRequest := fmt.Sprintf("GET / HTTP/1.0\r\n%s\r\n\r\n", rawCookies)
 		req, _ := http.ReadRequest(bufio.NewReader(strings.NewReader(rawRequest)))
-
 		url, _ := url.Parse(URL)
 		jar, _ := cookiejar.New(nil)
 		jar.SetCookies(url, req.Cookies())
 		client := http.Client{Jar: jar}
-
 		request, _ := http.NewRequest("GET", URL, nil)
 		request.Header.Set("user-agent", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:88.0) Gecko/20100101 Firefox/88.0")
 		r, err := client.Do(request)
 		check(err)
-
-		log.Print("requestStatusCode: ", r.StatusCode)
 		defer r.Body.Close()
 
 		body, _ := ioutil.ReadAll(r.Body)
-
 		err = ioutil.WriteFile("temp/"+id+".json", body, 0644)
 		check(err)
-		log.Println(id, "from: ", url, "saved")
+		log.Println("StatusCode:", r.StatusCode, id, "from:", url, "saved")
 		time.Sleep(200 * time.Millisecond)
 		return body, err
 	}
