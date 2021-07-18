@@ -8338,9 +8338,6 @@
 1. [隋唐演义（古典文库）](books/古代文学/隋唐演义（古典文库）.md)
 1. [杜甫诗歌鉴赏辞典](books/古代文学/杜甫诗歌鉴赏辞典.md)
 1. [杜甫诗歌鉴赏辞典](books/古代文学/杜甫诗歌鉴赏辞典.md)
-	<details open><summary>55 people mark</summary>
-	人生到处知何似？应似飞鸿踏雪泥。泥上偶然留指爪，鸿飞那复计东西?</details>
-
 1. [汉书（民国国学文库）](books/古代文学/汉书（民国国学文库）.md)
 1. [周易全解（修订本）](books/古代文学/周易全解（修订本）.md)
 	<details open><summary>105 people mark</summary>
