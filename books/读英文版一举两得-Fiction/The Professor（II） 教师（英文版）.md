@@ -1,0 +1,5 @@
+## The Professor（II） 教师（英文版）
+
+Charlotte Bronte  -  原版书榜-英文原版
+
+> The Professor is unique in that it was the first book Bronte wrote, and the only one narrated by a male character, the scholarly William Crimsworth. Published after Charlotte Bronte's death in 1855. The book is the story of a young man, William Crimsworth, and is a first-person narrative from his perspective. It describes his maturation, his career as a teacher in Brussels, and his personal relationships. William, orphaned at a young age, rejects the life of a clergyman his uncles choose for him and sets out on his own, eventually becoming a teacher at an all-girls school in Belgium. Once established there, he finds himself falling for a talented student, Frances, but their budding romance is threatened by petty jealousies. The final novel published by any of the famous Bronte sisters, The Professor was based partly on Charlotte's own experiences teaching in Belgium where she studied as a language student in 1842.

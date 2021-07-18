@@ -1,0 +1,5 @@
+## The%!B(MISSING)attle%!o(MISSING)f%!L(MISSING)ife%!人(MISSING)生的战斗（I）（英文版）
+
+Charles Dickens  -  原版书榜-英文原版
+
+> The Battle of Life is the fourth of Charles Dickens's five "Christmas Books". Two sisters, Grace and Marion, live happily in an English village with their two servants, and their good-natured widower father Dr Jeddler. Marion, the younger sister, is betrothed to Alfred Heathfield, Jeddler's ward who is leaving the village to complete his studies. He entrusts Marion to Grace's care and makes a promise to return to win Marion's hand. On the day that Alfred is to return, however, it is discovered that Marion has run off. After nursing heartbreak, Alfred marries Grace instead of Marion and she bears him a daughter, also called Marion. On the birthday of Marion, Grace confides to Alfred that Marion has made a promise to explain her so-called "elopement" in person. Marion indeed appears that evening by sunset and explains her disappearance to the parties involved. It turns out that Marion has not "eloped" but has instead been living at her aunt Martha's place so as to allow Alfred to fall in love with Grace.

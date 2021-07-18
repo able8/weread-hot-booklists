@@ -1,0 +1,5 @@
+## The Purloined Letter 失窃的信（英文版）
+
+Allan Poe  -  原版书榜-英文原版
+
+> The Purloined Letter is a short story by American author Edgar Allan Poe. It is the third of his three detective stories featuring the fictional C. Auguste Dupin, the other two being "The Murders in the Rue Morgue" and "The Mystery of Marie Rogêt". These stories are considered to be important early forerunners of the modern detective story. It first appeared in The Gift for 1845 (1844) and was soon reprinted in numerous journals and newspapers. The unnamed narrator is discussing  some of his most celebrated cases with the famous Parisian amateur detective C. Auguste Dupin when they are joined by the Prefect of the Police, a man known as G—. The Prefect has a case he would like to discuss with Dupin. A letter has been stolen from the boudoir of an unnamed female by the unscrupulous Minister D—. It is said to contain compromising information. Danton was in the room, saw the letter, and switched it for a letter of no importance. He has been blackmailing his victim.

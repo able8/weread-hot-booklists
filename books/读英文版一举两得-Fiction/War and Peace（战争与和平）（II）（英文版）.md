@@ -1,0 +1,5 @@
+## War and Peace（战争与和平）（II）（英文版）
+
+Leo Tolstoy  -  原版书榜-英文原版
+
+> Often called the greatest novel ever written, War and Peace is at once an epic of the Napoleonic Wars, a philosophical study, and a celebration of the Russian spirit.  Tolstoy's genius is seen clearly in the multitude of characters in this massive chronicle—all of them fully realized and equally memorable.While it expresses Tolstoy's view that history is an inexorable process which man cannot influence, he peoples his great novel with a cast of over five hundred characters.Out of this complex narrative emerges a profound examination of the individual's place in the historical process, one that makes it clear why Thomas Mann praised Tolstoy for his Homeric powers and placed War and Peace in the same category as the Iliad: "To read him … is to find one's way home … to everything within us that is fundamental and sane." Epic in scale, War and Peace delineates in graphic detail events leading up to Napoleon's invasion of Russia, and the impact of the Napoleonic era on Tsarist society, as seen through the eyes of five Russian aristocratic families.

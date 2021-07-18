@@ -1,0 +1,5 @@
+## BLOODLINE（百年血脉·英文版）
+
+PATIGÜL  -  文学榜-随笔文集
+
+>     After a messy divorce, Fatimah is forced to abandon her infant daughter and start a new in Qochek, a distant outpost of her native Xinjiang province. Then she receives a mysterious phone call summoning her thousands of miles south, and her life is upended once again. Who is this man claiming to be her long-lost brother? Will she ever be reunited with her daughter? And with enough distance, can she finally escape the shadow of her own traumatic childhood?In this tumultuous, semi-autobiographical family saga, set against the dramatic backdrop of twentieth-century China, acclaimed Uyghur author Patigül leads a reader back through five generations of Fatimah’s family, revealing the upheavals and tragedies that have shaped it. Ingeniously weaving together religious commentary, fairy tales and folk legends, Bloodline is a searing insight into what it means to feel like you belong, exploring the blood that binds and the wounds that stay behind.

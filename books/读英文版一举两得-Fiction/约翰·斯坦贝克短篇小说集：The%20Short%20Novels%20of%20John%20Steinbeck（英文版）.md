@@ -1,0 +1,5 @@
+## 约翰·斯坦贝克短篇小说集：The%!S(MISSING)hort%!N(MISSING)ovels%!o(MISSING)f%!J(MISSING)ohn%!S(MISSING)teinbeck（英文版）
+
+约翰·斯坦贝克  -  教育学习榜-外语
+
+>     《约翰·斯坦贝克短篇小说集》一书涵盖了约翰·斯坦贝克6篇经典短篇小说，包括《人鼠之间（OF MICE AND MEN）》、《煎饼坪（TORTILLA FLAT）》、《小红马（THE RED PONY）》、《月亮下去了（THE MOON IS DOWN）》、《罐头厂街（CANNERY ROW）》、《珍珠（THE PEARL）》。1935年出版的中篇小说《煎饼坪》，描写了一群流浪汉的生活和友谊。该书获得加利福尼亚州俱乐部年度金牌奖。从这本书起，斯坦贝克的作品为评论界所注意。《约翰·斯坦贝克短篇小说集》为精校英文原版，经典32开本便于随身携带阅读，学好英语从原版阅读开始。

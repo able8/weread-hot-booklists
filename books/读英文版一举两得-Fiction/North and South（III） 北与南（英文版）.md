@@ -1,0 +1,5 @@
+## North and South（III） 北与南（英文版）
+
+E.C. Gaskell  -  原版书榜-英文原版
+
+> This work follows the story of the heroine's movement from the tranquil setting of rural southern England to the turbulent industrial north, set in the mid-19th century, and written from the author's first-hand experience. North and South is set in the fictional industrial town of Milton in the North of England which is modeled after Manchester, where Gaskell lived as the wife of a Unitarian minister. Gaskell herself worked among the poor and knew at first hand the misery of the industrial areas. Forced to leave her home in the tranquil rural south, Margaret Hale settles with her parents in Milton where she witnesses the brutal world wrought by the industrial revolution and employers and workers clashing in the first organised strikes. Sympathetic to the poor whose courage and tenacity she admires and among whom she makes friends, she clashes with John Thornton, a cotton mill manufacturer who belongs to the nouveaux riches and whose contemptuous attitude to workers Margaret despises.

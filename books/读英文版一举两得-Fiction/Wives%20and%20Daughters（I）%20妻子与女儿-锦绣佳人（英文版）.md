@@ -1,0 +1,5 @@
+## Wives%!a(MISSING)nd%!D(MISSING)aughters（I）%!妻(MISSING)子与女儿-锦绣佳人（英文版）
+
+E.C. Gaskell  -  原版书榜-英文原版
+
+> Wives and Daughters is a novel by Elizabeth Gaskell, but When Mrs Gaskell died suddenly in 1865, it was not quite complete, and the last section was written by Frederick Greenwood. It is first published in the Cornhill Magazine as a serial from August 1864 to January 1866. The heroine, Molly is a daughter of a professional man. She is an attractive and rather unworldly young woman. Her father sends her to stay with the Hamleys of Hamley Hall, a gentry family. Molly forms a close attachment with Mrs. Hamley, who embraces her almost as a daughter. Molly also befriends the younger son, Roger. Molly is aware that she would not be considered a suitable match for the sons of Squire Hamley because of her status. However, she has always preferred Roger's good sense and honourable character and soon falls in love with him. Unfortunately, Roger falls in love with other girl. Molly is heartbroken, and struggles with her sorrow and her knowledge that that girl lacks affection for Roger.

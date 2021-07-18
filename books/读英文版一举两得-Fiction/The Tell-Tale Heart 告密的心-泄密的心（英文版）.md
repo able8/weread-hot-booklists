@@ -1,0 +1,5 @@
+## The Tell-Tale Heart 告密的心-泄密的心（英文版）
+
+Allan Poe  -  原版书榜-英文原版
+
+> The Tell-Tale Heart is a short story by Edgar Allan Poe, A pioneer of the short story genre, whose stories typically captured themes of the macabre and included elements of the mysterious. The story was first published in James Russell Lowell's The Pioneer in January 1843. It follows an unnamed narrator who murders an old man with a "vulture eye". Murder is carefully designed, and the murderer hides the body by cutting it into pieces and hiding it under the floorboards. The narrator denies having any feelings of hatred or resentment for the victim. He also denies that he killed for greed. The specific motivation for murder, the relationship between narrator and old man, and other details are left unclear. It has been speculated that the old man is a father figure, the narrator's landlord, or that the narrator works for the old man as a servant, and that perhaps his "vulture-eye" represents some sort of veiled secret, or power.

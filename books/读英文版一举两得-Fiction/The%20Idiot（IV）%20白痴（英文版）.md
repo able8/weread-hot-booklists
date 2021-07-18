@@ -1,0 +1,5 @@
+## The%!I(MISSING)diot（IV）%!白(MISSING)痴（英文版）
+
+Fyodor Dostoyevsky  -  原版书榜-英文原版
+
+> The Idiot is a novel by the 19th-century Russian author Fyodor Dostoevsky. The title is an ironic reference to the leading character in the novel, Prince (Knyaz) Lev Nikolayevich Myshkin, a young man who is full of goodness, open-hearted simplicity and guilelessness. In the character of Prince Myshkin, Dostoevsky set himself the task of depicting "the positively good and beautiful man." Howerver, returning to Russia from a sanitarium in Switzerland, the Christ-like epileptic Prince Myshkin finds himself enmeshed in a tangle of love, torn between two women—the notorious kept woman Nastasya and the pure Aglaia—both involved, in turn, with the corrupt, money-hungry Ganya. In the end, Myshkin's honesty, goodness, and integrity are shown to be unequal to the moral emptiness of those around him.The novel examines the consequences of placing such a unique individual at the centre of the conflicts, desires, passions and egoism of worldly society, both for the man himself and for those with whom he becomes involved.

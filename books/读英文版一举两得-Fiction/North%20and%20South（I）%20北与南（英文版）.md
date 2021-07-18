@@ -1,0 +1,5 @@
+## North%!a(MISSING)nd%!S(MISSING)outh（I）%!北(MISSING)与南（英文版）
+
+E.C. Gaskell  -  原版书榜-英文原版
+
+> North and South by Elizabeth Gaskell is first published in book form in 1855 originally appeared as a twenty-two-part weekly serial from September 1854 through January 1855 in the magazine Household Words, edited by Charles Dickens. The title indicates a major theme of the book: the contrast between the way of life in the industrial north of England and the wealthier south, although it was only under pressure from her publishers that Gaskell changed the title from its original, Margaret Hale. The book is a social novel that tries to show the industrial North and its conflicts in the mid-19th century as seen by an outsider, a socially sensitive lady from the South. The heroine of the story, Margaret Hale, is the daughter of a Nonconformist minister who moves to the fictional industrial town of Milton after leaving the Church of England. The town is modeled after Manchester, where Gaskell lived as the wife of a Unitarian minister. Gaskell herself worked among the poor and knew at first hand the misery of the industrial areas.

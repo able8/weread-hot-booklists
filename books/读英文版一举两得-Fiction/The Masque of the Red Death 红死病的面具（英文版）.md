@@ -1,0 +1,5 @@
+## The Masque of the Red Death 红死病的面具（英文版）
+
+Allan Poe  -  原版书榜-英文原版
+
+> The Masque of the Red Death, originally published as "The Mask of the Red Death", is a short story written by Edgar Allan Poe and first published in 1842. The story follows the "happy and dauntless and sagacious" Prince Prospero's attempts to avoid a dangerous plague known as the Red Death by hiding in his castellated abbey. He, along with many other wealthy nobles, has a masquerade ball within seven rooms of his abbey, each decorated with a different color. In the midst of their revelry, a mysterious figure enters and makes his way through each of the rooms. When Prospero confronts this stranger, he falls dead. The story follows many traditions of Gothic fiction and is often analyzed as an allegory about the inevitability of death, though some critics advise against an allegorical reading. Many different interpretations have been presented, as well as attempts to identify the true nature of the disease of the "Red Death."

@@ -1,0 +1,5 @@
+## The Professor（III） 教师（英文版）
+
+Charlotte Bronte  -  原版书榜-英文原版
+
+> The Professor was published posthumously in 1857. It was the first novel written by Charlotte Brontë and is unique among her works as the only one to feature a male narrator. Rejected by multiple publishers during her lifetime. Written two years before Jane Eyre, The Professor was Charlotte Bronte’s first novel and was based on her experiences in Brussels. The story is one of love and doubt, as the hero, William Crimsworth, seeks his fortune as a teacher in Brussels and finds his love for the good Anglo-Swiss girl, Frances Henri, severely tested by the sensuously beguiling and manipulative headmistress, Zoroaïde Reuter. On the other hand, the social protest sounded distinctly in this novel that is typical for mature works of Charlotte Bronte. In particular, this protest is expressed in the image of a soulless, prudent businessman, the factory owner Edward Crimsworth who devoided of basic humanity in dealing with workers and their families.

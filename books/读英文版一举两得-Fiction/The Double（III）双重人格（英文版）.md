@@ -1,0 +1,5 @@
+## The Double（III）双重人格（英文版）
+
+Fyodor Dostoyevsky  -  原版书榜-英文原版
+
+> The Double written by Fyodor Dostoevsky is a novella. It was first published on January 30, 1846 in the Fatherland Notes. It was subsequently revised and republished by Dostoevsky in 1866. The Double centers on a government clerk who goes mad. It deals with the internal psychological struggle of its main character, Yakov Petrovich Golyadkin, who repeatedly encounters someone who is his exact double in appearance but confident, aggressive, and extroverted, characteristics that are the polar opposites to those of the toadying "pushover" protagonist. The motif of the novella is a doppelgänger (Russian "dvoynik"), known throughout the world in various guises such as the fetch. A series of faux pas lead to Golyadkin's expulsion from the birthday party of his office manager's daughter. On his way home through a snowstorm, he encounters his double, who looks exactly like him. At the story's conclusion, Golyadkin Sr. begins to see many replicas of himself, has a psychotic break, and is dragged off to an asylum by Doctor Rutenspitz.

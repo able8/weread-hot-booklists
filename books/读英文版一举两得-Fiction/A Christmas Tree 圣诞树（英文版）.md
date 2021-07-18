@@ -1,0 +1,5 @@
+## A Christmas Tree 圣诞树（英文版）
+
+Charles Dickens  -  原版书榜-英文原版
+
+> This book is a Christmas novella by Charles Dickens. It is perhaps best described as Dickens's "other" Christmas story, this is an elderly narrator's reminiscence of holidays past, each incident inspired by the gifts and toys that decorate the traditional tree. There is a range of appeal in the story itself, from snug memories of beloved toys to the passing along of eerie stories surrounding various childhood haunts. "I begin to consider, what do we all remember best upon the branches of the Christmas Tree of our own young Christmas days, by which we climbed to real life." "the whole enlivened by small bells, was a mighty marvel and a great delight. "of the laden hopelessness of morning ever dawning; and the oppression of a weight of remorse." "This, in commemoration of the law of love and kindness, mercy and compassion. This, in remembrance of Me!" The story is full of rich and brilliant imagination.

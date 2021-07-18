@@ -1,0 +1,5 @@
+## Beauty%!a(MISSING)nd%!t(MISSING)he%!B(MISSING)east
+
+Charles Perrault  -  原版书榜-英文原版
+
+> Based on the classic French fairy tale, Beauty and the Beast tells the story of Belle: an intelligent young woman scorned by her townspeople for being a bookworm, weary of fighting off the advances of the arrogant Gaston, and dreaming of escape. When her father gets lost in the woods and captured by the forbidding Beast, a once-handsome prince turned into a monster by a witch, Belle goes off to rescue him. Taken with her, the Beast agrees to release Belle's father if she agrees to stay with him forever. Initially repulsed, Belle soon finds much to appreciate in the Beast's hidden, tender nature. The Beast's servants -- a clock, a teapot, and a candlestick -- see Belle as their salvation: if the Beast and a woman fall in love before his 21st birthday, he will be free from the curse.  Beautifully illustrated, this classic tale will capture children's interest and spark their imagination, inspiring a lifelong love of literature and reading.

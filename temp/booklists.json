@@ -1,0 +1,5346 @@
+{
+	"synckey": 1626477276,
+	"booklists": [
+		{
+			"booklistId": "3607396_6Z0o0WYhJ",
+			"createTime": 1524881125,
+			"collectCount": 43388,
+			"collectedCount": 43388,
+			"name": "大学生必读",
+			"description": "清华北大联袂推荐",
+			"author": {
+				"userVid": 3607396,
+				"name": "秦杰",
+				"avatar": "https://wx.qlogo.cn/mmhead/icOMWNSS6W2sZicqIvhKticZejVib8hXmUx3sicEiaARqCTRY/0",
+				"remark": ""
+			},
+			"totalCount": 14,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "858516",
+						"author": "乔治·奥威尔",
+						"title": "1984（奥威尔作品集）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/516/858516/s_858516.jpg",
+						"payType": 1,
+						"type": 0,
+						"soldout": 1
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "920939",
+						"author": "马克思",
+						"title": "资本论（超值白金版）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/939/920939/s_920939.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "3000000636",
+						"author": "大卫·柯克帕特里克",
+						"title": "Facebook效应",
+						"cover": "https://weread-picture-1258476243.file.myqcloud.com/outpic/636/3000000636.jpg",
+						"payType": 0,
+						"type": 0,
+						"soldout": 1
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "33821711_6Xkj5luFv",
+			"createTime": 1518969385,
+			"collectCount": 32006,
+			"collectedCount": 32006,
+			"name": "英文版经典书籍",
+			"description": "总得提升一下英文吧",
+			"author": {
+				"userVid": 33821711,
+				"name": "Amanda",
+				"avatar": "https://wx.qlogo.cn/mmhead/ZxekKsvgSUGj6M0YOa4Cq5LMmPFscgs2vfubHudVKlw/0",
+				"remark": ""
+			},
+			"totalCount": 38,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "846982",
+						"author": "艾米莉·简·勃朗特",
+						"title": "呼啸山庄：英文版（世界名著精选）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/982/846982/s_846982.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "821889",
+						"author": "author Dickens Charles",
+						"title": "Oliver Twist-雾都孤儿 (英文原版)",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/889/821889/s_821889.jpg",
+						"payType": 1,
+						"type": 0,
+						"soldout": 1
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "820016",
+						"author": "伯内特",
+						"title": "小公主：A LITTLE PRINCESS（英文原版）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/16/820016/s_820016.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "8301723_79NzgQeBK",
+			"createTime": 1562890795,
+			"collectCount": 30184,
+			"collectedCount": 30184,
+			"name": "思维方式",
+			"description": "系统性思考，结构化分析，模型化处理。",
+			"author": {
+				"userVid": 8301723,
+				"name": "陈鑫",
+				"avatar": "https://wx.qlogo.cn/mmhead/ajNVdqHZLLChialATEpr3DZzRjaMFJvDqbq5Yib5rIrkiaMfia8Ce0Q9DA/0",
+				"remark": ""
+			},
+			"totalCount": 29,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "27278425",
+						"author": "斯科特·佩奇",
+						"title": "模型思维",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/425/27278425/s_27278425.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "925174",
+						"author": "邱昭良",
+						"title": "如何系统思考",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/174/925174/s_925174.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "573975",
+						"author": "丹尼尔·卡尼曼",
+						"title": "思考，快与慢",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/975/573975/s_573975.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "24047880_770DoBviO",
+			"createTime": 1553068134,
+			"collectCount": 26432,
+			"collectedCount": 26432,
+			"name": "写作能力提高系列",
+			"description": "这是一份宝藏书单，很多穷极了一生沉浸在故事领域内",
+			"author": {
+				"userVid": 24047880,
+				"name": "梦入千秋",
+				"avatar": "https://wx.qlogo.cn/mmhead/gwhELYibibFdRcSDicopWIiaZdcjeKibiaWQCB7sFGRmWuvrPPzJjatPNTyQ/0",
+				"remark": ""
+			},
+			"totalCount": 25,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "36744524",
+						"author": "布莱克·斯奈德",
+						"title": "救猫咪：电影编剧指南",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/524/36744524/s_36744524.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "823435",
+						"author": "约瑟夫·坎贝尔",
+						"title": "千面英雄",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/435/823435/s_823435.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "29108628",
+						"author": "美国《作家文摘》杂志社",
+						"title": "短篇小说写作指南",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/628/29108628/s_29108628.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "31153374_7fqO6g6qX",
+			"createTime": 1582727663,
+			"collectCount": 26168,
+			"collectedCount": 26168,
+			"name": "财务自由",
+			"description": "财务自由，基金投资，人生躺赢，财商教育",
+			"author": {
+				"userVid": 31153374,
+				"name": "乔帮主 @牧羊传奇",
+				"avatar": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM4rllNKRduSc33T2z5NtffibL3IbkEDwyekyNkCHX7P87Q/0",
+				"remark": "",
+				"nick": "乔帮主 @牧羊传奇"
+			},
+			"totalCount": 39,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "928738",
+						"author": "博多·舍费尔",
+						"title": "财务自由之路Ⅰ：7年内赚到你的第一个1000万",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/738/928738/s_928738.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "837932",
+						"author": "彼得·考夫曼",
+						"title": "穷查理宝典：查理·芒格智慧箴言录",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/932/837932/s_837932.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "533910",
+						"author": "陈云",
+						"title": "30岁之后，用钱赚钱",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/910/533910/s_533910.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "8721039_7fROYyzxC",
+			"createTime": 1584262072,
+			"collectCount": 25599,
+			"collectedCount": 25599,
+			"name": "茅盾文学奖",
+			"description": "历届茅盾文学奖获奖作品 顺序排列。",
+			"author": {
+				"userVid": 8721039,
+				"name": "明月清風我",
+				"avatar": "https://wx.qlogo.cn/mmhead/K78BUqas6uvTiaX4wX83ZfxzsAIO7kVSxRPhS2JK5ib04/0",
+				"remark": "",
+				"nick": "明月清風我"
+			},
+			"totalCount": 58,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "26123293",
+						"author": "李洱",
+						"title": "应物兄（全集）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/293/26123293/s_26123293.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "3001373453",
+						"author": "徐则臣",
+						"title": "2019第十届茅盾文学奖获奖作品：北上（2018中国好书）",
+						"cover": "http://img13.360buyimg.com/n12/s428x616_jfs/t1/98170/40/4826/447749/5de8d5fcEbf5e73a4/23a6babbf2e79106.jpg",
+						"payType": 0,
+						"type": 0,
+						"soldout": 1
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "25079383",
+						"author": "徐怀中",
+						"title": "牵风记",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/383/25079383/s_25079383.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "39448752_78vGR2STc",
+			"createTime": 1558353724,
+			"collectCount": 21203,
+			"collectedCount": 21203,
+			"name": "心理学相关",
+			"description": "关于人性心理的一切",
+			"author": {
+				"userVid": 39448752,
+				"name": "顾辞",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0003-QvKKIdGvVA2L8_GvA~oTFa4/0",
+				"remark": ""
+			},
+			"totalCount": 12,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "25615385",
+						"author": "岸见一郎 古贺史健",
+						"title": "被讨厌的勇气：“自我启发之父”阿德勒的哲学课",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/385/25615385/s_25615385.jpg",
+						"payType": 1048641,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "573975",
+						"author": "丹尼尔·卡尼曼",
+						"title": "思考，快与慢",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/975/573975/s_573975.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "850077",
+						"author": "卡伦·霍妮",
+						"title": "我们内心的冲突",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/77/850077/s_850077.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "14977679_72WAWTRts",
+			"createTime": 1538752233,
+			"collectCount": 20745,
+			"collectedCount": 20745,
+			"name": "世界文学经典",
+			"description": "人类文明的里程碑",
+			"author": {
+				"userVid": 14977679,
+				"name": "罗亭",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0022-7mFWDoTQDuryBwdYwcQzya7/0",
+				"remark": "",
+				"nick": "罗亭"
+			},
+			"totalCount": 210,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "25926855",
+						"author": "伊迪丝·华顿",
+						"title": "纯真年代（译文经典）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/855/25926855/s_25926855.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "25926894",
+						"author": "佚名",
+						"title": "平家物语（全译本）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/894/25926894/s_25926894.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "25658220",
+						"author": "雨果",
+						"title": "悲惨世界（全册）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/220/25658220/s_25658220.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "5731277_7ciMOHge1",
+			"createTime": 1571707242,
+			"collectCount": 20723,
+			"collectedCount": 20723,
+			"name": "聪明的投资者",
+			"description": "通过系统的学习，做一个聪明的投资者",
+			"author": {
+				"userVid": 5731277,
+				"name": "hawking",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0001-KudYx7SCQBebLi5Orgg3~b5/0",
+				"remark": ""
+			},
+			"totalCount": 29,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "635921",
+						"author": "吉姆·柯林斯",
+						"title": "基业长青（珍藏版）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/921/635921/s_635921.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "24925754",
+						"author": "霍华德·马克斯",
+						"title": "周期",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/754/24925754/s_24925754.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "32436032",
+						"author": "滋维·博迪 亚历克斯·凯恩 艾伦J.马库斯",
+						"title": "投资学（原书第10版）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/32/32436032/s_32436032.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "209679735_7e3hYSO0D",
+			"createTime": 1577870218,
+			"collectCount": 20155,
+			"collectedCount": 20155,
+			"name": "读历史。因为性价比最高。",
+			"description": "读历史的好处都懂，不再叽叽歪歪。 也不是说别的书都是垃圾， 我只是单纯认为， 在少之又少的读书时间， 阅读历史了解历史， 是性价比最高的。沒想到這麼多人收藏這個書單。那正好夾帶一點「私貨」——理想國譯叢。希望各位喜歡！",
+			"author": {
+				"userVid": 209679735,
+				"name": "。",
+				"avatar": "https://wx.qlogo.cn/mmhead/PiajxSqBRaELMyxay2crUciaXAzZHkkIfwKBEc5GPzGnHPMDBWWcC6oA/0",
+				"remark": "",
+				"nick": "。"
+			},
+			"totalCount": 30,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "26314575",
+						"author": "爱德华多·加莱亚诺",
+						"title": "拉丁美洲被切开的血管",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/575/26314575/s_26314575.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "857798",
+						"author": "德斯蒙德·图图著 阎克文校",
+						"title": "没有宽恕就没有未来",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/798/857798/s_857798.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "29348688",
+						"author": "弗朗西斯·福山",
+						"title": "历史的终结与最后的人",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/688/29348688/s_29348688.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7hhTu15jC",
+			"createTime": 1589264622,
+			"collectCount": 19934,
+			"collectedCount": 19934,
+			"name": "理想国译丛[MIRROR]系列",
+			"description": "愿你始终对世界的丰富性与复杂性保持好奇。",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 33,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "29348594",
+						"author": "伊丽莎白·皮萨尼",
+						"title": "印尼Etc：众神遗落的珍珠",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/594/29348594/s_29348594.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "29348576",
+						"author": "鹤见俊辅",
+						"title": "战争时期日本精神史：1931-1945",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/576/29348576/s_29348576.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "26785292",
+						"author": "巴巴拉·W.塔奇曼",
+						"title": "圣经与利剑：英国和巴勒斯坦—从青铜时代到贝尔福宣言",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/292/26785292/s_26785292.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "15051517_7dMgDx9U0",
+			"createTime": 1576903382,
+			"collectCount": 17658,
+			"collectedCount": 17658,
+			"name": "牛津通识读本（中文版）",
+			"description": "一起加油，不断更新。",
+			"author": {
+				"userVid": 15051517,
+				"name": "Whisper",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0019-o151QOoiIMVwRkYZdpwIRab/0",
+				"remark": ""
+			},
+			"totalCount": 86,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "752704",
+						"author": "诺曼·所罗门",
+						"title": "牛津通识读本：犹太人与犹太教",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/704/752704/s_752704.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "37700252",
+						"author": "玛丽·简·塔基 简·斯科特",
+						"title": "牛津通识读本：抑郁症（中文版）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/252/37700252/s_37700252.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "34889539",
+						"author": "约翰·邓恩",
+						"title": "牛津通识读本：洛克（中文版）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/539/34889539/s_34889539.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "28618865_6OtPIEQXC",
+			"createTime": 1487815953,
+			"collectCount": 17289,
+			"collectedCount": 17289,
+			"name": "【技能】个人基础能力提升",
+			"description": "基础能力包括:学习能力，阅读能力，解决问题，时间管理的能力等等。",
+			"author": {
+				"userVid": 28618865,
+				"name": "Joel",
+				"avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83erHH3AZvZBudAPDxEdMibQzSNCp9LGA7RBVgwXGiaWWEaQtebMrOiaicJPsC7n2LCjLZAabAyXuibFDWww/132",
+				"remark": ""
+			},
+			"totalCount": 39,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "831303",
+						"author": "邱昭良",
+						"title": "复盘+：把经验转化为能力（第2版）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/303/831303/s_831303.jpg",
+						"payType": 524289,
+						"type": 0,
+						"soldout": 1
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "925969",
+						"author": "小西利行",
+						"title": "高效人士用超级笔记术",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/969/925969/s_925969.jpg",
+						"payType": 1,
+						"type": 0,
+						"soldout": 1
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "921568",
+						"author": "瑞·达利欧",
+						"title": "原则",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/568/921568/s_921568.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "27930537_76SLv4Foj",
+			"createTime": 1552621156,
+			"collectCount": 15188,
+			"collectedCount": 15188,
+			"name": "世界的底层逻辑",
+			"description": "三观尽毁浴火重生",
+			"author": {
+				"userVid": 27930537,
+				"name": "Elson辉哥",
+				"avatar": "https://mmhead.c2c.wechat.com/mmhead/Pnykp0Riaf0X83tONPic4mzuHcjicfS2nEt62AfaUsgLH4I9DhaojdVDg/0",
+				"remark": ""
+			},
+			"totalCount": 50,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "34389621",
+						"author": "M.斯科特·派克",
+						"title": "少有人走的路（1-8套装）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/621/34389621/s_34389621.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "22973166",
+						"author": "尤瓦尔·赫拉利",
+						"title": "今日简史：人类命运大议题",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/166/22973166/s_22973166.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "814902",
+						"author": "威廉·莎士比亚",
+						"title": "哈姆雷特",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/902/814902/s_814902.jpg",
+						"payType": 33,
+						"type": 0,
+						"soldout": 1
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "31628584_7aKUdgz9R",
+			"createTime": 1566261195,
+			"collectCount": 14370,
+			"collectedCount": 14370,
+			"name": "读史为鉴",
+			"description": "读史以明是非。",
+			"author": {
+				"userVid": 31628584,
+				"name": "履于安",
+				"avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIia8vbJEhpFlgH83JRjebAR633k0XfdP156g3rcBxsMRxkUicicaAum4CUcva643QEOg2zT8MHkbNCA/132",
+				"remark": ""
+			},
+			"totalCount": 50,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "847310",
+						"author": "刘和平",
+						"title": "大明王朝1566（全集）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/310/847310/s_847310.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "825862",
+						"author": "岳南",
+						"title": "南渡北归（增订版）（全集）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/862/825862/s_825862.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "684632",
+						"author": "海斯 穆恩 韦兰",
+						"title": "全球通史",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/632/684632/s_684632.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "206860775_76iEE8sGV",
+			"createTime": 1550570069,
+			"collectCount": 13846,
+			"collectedCount": 13846,
+			"name": "学习：能力/方式",
+			"description": "学习就是生产力",
+			"author": {
+				"userVid": 206860775,
+				"name": "北辰v信",
+				"avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/rFd3JeH2Y4piasYPibGf4kV8RZoBOugpSrHBb9fwNsVIQwuRM8FqZlTTqqbV7ianvCtzcV1TeibBhFagL9oVGlr19A/132",
+				"remark": "",
+				"nick": "北辰v信"
+			},
+			"totalCount": 22,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "23549116",
+						"author": "叶修",
+						"title": "深度思维：透过复杂直抵本质的跨越式成长方法论",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/116/23549116/s_23549116.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "921087",
+						"author": "周桂伊",
+						"title": "认知差：你比人生赢家差在哪？",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/87/921087/s_921087.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "23723810",
+						"author": "莫提默·艾德勒 查尔斯·范多伦",
+						"title": "如何阅读一本书",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/810/23723810/s_23723810.jpg",
+						"payType": 1048577,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "31927713_75Ti2SBi3",
+			"createTime": 1549129358,
+			"collectCount": 13458,
+			"collectedCount": 13458,
+			"name": "古代文学",
+			"description": "古代文学必读书单",
+			"author": {
+				"userVid": 31927713,
+				"name": "林深不知路",
+				"avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/OqHDSW8sFAmlLAunpOBNQNrEwl3m5ZID5wyPgCHGqNuNIt0JxxDAicoCbXUia4e6FzljElTt5GEtozw4bicQO8AqA/132",
+				"remark": "",
+				"nick": "林深不知路"
+			},
+			"totalCount": 171,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "931848",
+						"author": "骆玉明解注 细井徇撰绘",
+						"title": "诗经",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/848/931848/s_931848.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "857170",
+						"author": "唐品主编",
+						"title": "尚书（全集）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/170/857170/s_857170.jpg",
+						"payType": 1,
+						"type": 0,
+						"soldout": 1
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "27561571",
+						"author": "王辉编译",
+						"title": "周易",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/571/27561571/s_27561571.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7gD3dbkM3",
+			"createTime": 1586944725,
+			"collectCount": 12686,
+			"collectedCount": 12686,
+			"name": "一天可以读完的经典",
+			"description": "专治读不完焦虑症",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 15,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "839029",
+						"author": "莉兹·克里莫",
+						"title": "我可以咬一口吗",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/29/839029/s_839029.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "22394103",
+						"author": "卡罗利娜·科尔霍宁",
+						"title": "芬兰人的噩梦：另类芬兰社交指南",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/103/22394103/s_22394103.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "915898",
+						"author": "一禅小和尚",
+						"title": "一禅小和尚",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/898/915898/s_915898.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "41110746_7eTqkRNVe",
+			"createTime": 1580831484,
+			"collectCount": 12664,
+			"collectedCount": 12664,
+			"name": "思想的国度",
+			"description": "唯有思想，永垂不朽。",
+			"author": {
+				"userVid": 41110746,
+				"name": "所思在远道",
+				"avatar": "https://wx.qlogo.cn/mmhead/uchmtWQh7iaqBQ8MW2icS2XUibic9CPTicQJsDx7xBUgu2tJibvYTxyzjVoA/0",
+				"remark": "",
+				"nick": "所思在远道"
+			},
+			"totalCount": 54,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "934369",
+						"author": "西蒙娜·德·波伏瓦",
+						"title": "第二性（合卷本）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/369/934369/s_934369.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "927587",
+						"author": "彼得·林奇 约翰·罗瑟查尔德",
+						"title": "战胜华尔街（典藏版）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/587/927587/s_927587.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "184065",
+						"author": "奥古斯丁",
+						"title": "忏悔录",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/65/184065/s_184065.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7eIoBm0NI",
+			"createTime": 1580205093,
+			"collectCount": 12465,
+			"collectedCount": 12465,
+			"name": "病了怎么办？看病就医知识书单",
+			"description": "关键时刻怎么救命？看书学自救技能",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 10,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "853432",
+						"author": "杰尔姆·格罗普曼 帕米拉·哈茨班德著 王一方主编",
+						"title": "最好的抉择：关于看病就医你要知道的常识",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/432/853432/s_853432.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "920661",
+						"author": "夏萌",
+						"title": "你是你吃出来的：吃对少生病，病了这样吃",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/661/920661/s_920661.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "816605",
+						"author": "王成钢",
+						"title": "关键时刻，命该怎么救？",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/605/816605/s_816605.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7kYuULq3v",
+			"createTime": 1602249368,
+			"collectCount": 11387,
+			"collectedCount": 11387,
+			"name": "让人相见恨晚的科普书\t\t",
+			"description": "谁说知识与趣味不可兼得？\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 25,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "33588616",
+						"author": "耶尔·阿德勒 卡佳·施皮策",
+						"title": "人体的秘密",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/616/33588616/s_33588616.jpg",
+						"payType": 1048577,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "917443",
+						"author": "马克·米奥多尼克",
+						"title": "迷人的材料",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/443/917443/s_917443.jpg",
+						"payType": 528385,
+						"type": 0,
+						"soldout": 1
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "29815039",
+						"author": "乔治·伽莫夫",
+						"title": "从一到无穷大",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/39/29815039/s_29815039.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "28629807_6UuHOzSaT",
+			"createTime": 1508995199,
+			"collectCount": 11256,
+			"collectedCount": 11256,
+			"name": "阿加莎克里斯蒂",
+			"description": "赫尔克里波洛系列",
+			"author": {
+				"userVid": 28629807,
+				"name": "人宁愿金鱼般记性",
+				"avatar": "https://wx.qlogo.cn/mmhead/sTJptKvBQLJPpIibYvoGV4bBFAS9Qc1qVQ6dR3zrYJd5z4sHC7N7tQQ/0",
+				"remark": ""
+			},
+			"totalCount": 37,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "22289893",
+						"author": "阿加莎·克里斯蒂著 查尔斯·奥斯本改编",
+						"title": "黑咖啡",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/893/22289893/s_22289893.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "22289905",
+						"author": "阿加莎·克里斯蒂",
+						"title": "四魔头",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/905/22289905/s_22289905.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "728521",
+						"author": "阿加莎·克里斯蒂",
+						"title": "空幻之屋",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/521/728521/s_728521.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7gD3dWvQO",
+			"createTime": 1586944736,
+			"collectCount": 10861,
+			"collectedCount": 10861,
+			"name": "比尔·盖茨推荐书单",
+			"description": "金字塔尖上的人在读什么",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 11,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "855812",
+						"author": "尤瓦尔·赫拉利",
+						"title": "人类简史：从动物到上帝",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/812/855812/s_855812.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "852290",
+						"author": "尤瓦尔·赫拉利",
+						"title": "未来简史：从智人到智神",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/290/852290/s_852290.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "25849521",
+						"author": "斯蒂芬·平克",
+						"title": "人性中的善良天使：暴力为什么会减少",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/521/25849521/s_25849521.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "75278253_7clRpg0kp",
+			"createTime": 1571881847,
+			"collectCount": 10714,
+			"collectedCount": 10714,
+			"name": "英文漫画",
+			"description": "漫画使内容更趣味更容易理解",
+			"author": {
+				"userVid": 75278253,
+				"name": "Jessie",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0023-TOHWx2BCfgI3DQlpQIJuDb2/0",
+				"remark": "",
+				"nick": "Jessie"
+			},
+			"totalCount": 12,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "23323694",
+						"author": "Hans Christian Andersen",
+						"title": "The Ugly Duckling",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/694/23323694/s_23323694.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "23323686",
+						"author": "Grimm Brothers",
+						"title": "Cinderella",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/686/23323686/s_23323686.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "23323878",
+						"author": "Grimm Brothers",
+						"title": "The Princess Who Saw Everything",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/878/23323878/s_23323878.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "356435793_7gqO97Kuv",
+			"createTime": 1586249320,
+			"collectCount": 10572,
+			"collectedCount": 10572,
+			"name": "高效学习",
+			"description": "养成高效率的读书和学习习惯",
+			"author": {
+				"userVid": 356435793,
+				"name": "再努力一点",
+				"avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/PiajxSqBRaEJicK5aqaqXCkCjLuemRSM3coDn4cDfUzlj2qw0G5NN0Gg2t1Jic0xZEUHnh1wzT7iamSbfZd0icYnThw/132",
+				"remark": "",
+				"nick": "再努力一点"
+			},
+			"totalCount": 11,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "909881",
+						"author": "奥野宣之",
+						"title": "如何有效阅读一本书：超实用笔记读书法",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/881/909881/s_909881.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "26070513",
+						"author": "芭芭拉·明托",
+						"title": "金字塔原理实战篇",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/513/26070513/s_26070513.jpg",
+						"payType": 524289,
+						"type": 0,
+						"soldout": 1
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "25369877",
+						"author": "汉斯·罗斯林 欧拉·罗斯林 安娜·罗斯林·罗朗德",
+						"title": "事实（比尔·盖茨推荐）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/877/25369877/s_25369877.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "19697827_78NumDIyD",
+			"createTime": 1559364686,
+			"collectCount": 9435,
+			"collectedCount": 9435,
+			"name": "文明的故事",
+			"description": "这套书什么时候能下决心看呢。。。。。。",
+			"author": {
+				"userVid": 19697827,
+				"name": "博爵",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0002-mjmOiBgdhqpXQUAe9L63Wa7/0",
+				"remark": ""
+			},
+			"totalCount": 11,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "25397997",
+						"author": "威尔·杜兰特",
+						"title": "文明的故事6：宗教改革",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/997/25397997/s_25397997.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "25397990",
+						"author": "威尔·杜兰特",
+						"title": "文明的故事3：恺撒与基督",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/990/25397990/s_25397990.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "25398005",
+						"author": "威尔·杜兰特 阿里尔·杜兰特",
+						"title": "文明的故事10：卢梭与大革命",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/5/25398005/s_25398005.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7mixhKc8m",
+			"createTime": 1606909159,
+			"collectCount": 8891,
+			"collectedCount": 8891,
+			"name": "像社会学家一样思考",
+			"description": "内卷、社畜、小镇做题家、骑手系统、三和大神……",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 20,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "34535887",
+						"author": "严飞",
+						"title": "穿透：像社会学家一样思考",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/887/34535887/s_34535887.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "33812058",
+						"author": "迪迪埃·埃里蓬",
+						"title": "回归故里",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/58/33812058/s_33812058.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "34615965",
+						"author": "黄灯",
+						"title": "我的二本学生",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/965/34615965/s_34615965.jpg",
+						"payType": 1048577,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "78536665_7dYaLVXpu",
+			"createTime": 1577579612,
+			"collectCount": 8711,
+			"collectedCount": 8711,
+			"name": "诸子百家",
+			"description": "法、道、儒、墨、兵，纵横、农、杂、医、名，阴阳、小说",
+			"author": {
+				"userVid": 78536665,
+				"name": "Vtsu.临一徍悠",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0013-3QSnPWK_9VvH19OzIvVyob5/0",
+				"remark": "",
+				"nick": "Vtsu.临一徍悠"
+			},
+			"totalCount": 81,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "26796483",
+						"author": "曾参",
+						"title": "大学（国学大书院）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/483/26796483/s_26796483.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "25719678",
+						"author": "石磊译注",
+						"title": "商君书（中华经典名著全本全注全译丛书）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/678/25719678/s_25719678.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "619115",
+						"author": "袁堂欣 谢志强主编",
+						"title": "荀子（中华国学经典）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/115/619115/s_619115.jpg",
+						"payType": 1,
+						"type": 0,
+						"soldout": 1
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7gD3d0N37",
+			"createTime": 1586944722,
+			"collectCount": 8264,
+			"collectedCount": 8264,
+			"name": "高效能人士的必备清单",
+			"description": "让你工作生活更胜一筹",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 16,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "573926",
+						"author": "斯科特·扬",
+						"title": "如何高效学习：1年完成麻省理工4年33门课程的整体性学习法",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/926/573926/s_573926.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "843465",
+						"author": "芭芭拉·奥克利",
+						"title": "学习之道",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/465/843465/s_843465.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "907666",
+						"author": "Scalers",
+						"title": "刻意学习",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/666/907666/s_907666.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "13818094_7cra5NBsO",
+			"createTime": 1572182967,
+			"collectCount": 8003,
+			"collectedCount": 8003,
+			"name": "英文原著",
+			"description": "适合学习的英文原著，分享给书友（能帮助到大家就好",
+			"author": {
+				"userVid": 13818094,
+				"name": "🍀Stella",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0031-BujMQZkd4DJYUlIP~7l_j98/0",
+				"remark": "",
+				"nick": "🍀Stella"
+			},
+			"totalCount": 10,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "820017",
+						"author": "夏洛蒂·勃朗特",
+						"title": "简爱：JANE EYRE（英文原版）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/17/820017/s_820017.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "22720170",
+						"author": "圣埃克絮佩里",
+						"title": "小王子（英文版）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/170/22720170/s_22720170.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "24136906",
+						"author": "Allan Poe",
+						"title": "The Black Cat 黑猫（英文版）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/906/24136906/s_24136906.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7eJZhVOme",
+			"createTime": 1580295503,
+			"collectCount": 7606,
+			"collectedCount": 7606,
+			"name": "热播影视原著大盘点",
+			"description": "伴你度过假期时光",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 10,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "462592",
+						"author": "猫腻",
+						"title": "庆余年",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/592/462592/s_462592.jpg",
+						"payType": 8194,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "917436",
+						"author": "蓝色狮",
+						"title": "锦衣之下（任嘉伦、谭松韵主演）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/436/917436/s_917436.jpg",
+						"payType": 2,
+						"type": 0,
+						"soldout": 1
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "852194",
+						"author": "唐七",
+						"title": "三生三世枕上书（迪丽热巴、高伟光主演）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/194/852194/s_852194.jpg",
+						"payType": 12290,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "36234967_76lZRKIFb",
+			"createTime": 1550759910,
+			"collectCount": 7536,
+			"collectedCount": 7536,
+			"name": "富爸爸系列",
+			"description": "走向财务自由！欢迎关注我的公众号:江月小白",
+			"author": {
+				"userVid": 36234967,
+				"name": "上财小白",
+				"avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83eprrwNv8VbgdYfM3mVIyCqCO7nWYTDADUbrACpNkLuQVqLnO4Szkics1CaOZvzjLOGDxKgnsytur3A/132",
+				"remark": "",
+				"nick": "上财小白"
+			},
+			"totalCount": 9,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "713322",
+						"author": "艾伯特·拉斯洛·巴拉巴西",
+						"title": "链接：商业、科学与生活的新思维（10周年纪念版）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/322/713322/s_713322.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "786063",
+						"author": "罗伯特·清崎 莎伦·莱希特",
+						"title": "富爸爸财务自由之路",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/63/786063/s_786063.jpg",
+						"payType": 1048577,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "804050",
+						"author": "罗伯特·清崎 莎伦·莱希特",
+						"title": "富爸爸穷爸爸实践篇",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/50/804050/s_804050.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "11200259_6XsTbNbjF",
+			"createTime": 1519456863,
+			"collectCount": 7416,
+			"collectedCount": 7416,
+			"name": "政治+哲学",
+			"description": "结果大部分没上架，微信阅读用不下去了",
+			"author": {
+				"userVid": 11200259,
+				"name": "冰冰助",
+				"avatar": "https://wx.qlogo.cn/mmhead/sc8lJYpicUaU4caiagjYJ0kp21IvMnKtNUkdmlrrrvLT3IVq5v5k8Qjw/0",
+				"remark": ""
+			},
+			"totalCount": 21,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "184073",
+						"author": "伯兰特.罗素",
+						"title": "西方哲学简史",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/73/184073/s_184073.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "151277",
+						"author": "卢梭",
+						"title": "社会契约论",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/277/151277/s_151277.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "854789",
+						"author": "罗素",
+						"title": "哲学问题",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/789/854789/s_854789.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7oerTWfD2",
+			"createTime": 1613720255,
+			"collectCount": 7107,
+			"collectedCount": 7107,
+			"name": "学点逻辑学，破解杠精的诡辩",
+			"description": "如果你被杠精攻击过，那你非常有必要学一下。",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 20,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "24026234",
+						"author": "丹尼尔·丹尼特",
+						"title": "直觉泵和其他思考工具",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/234/24026234/s_24026234.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "573975",
+						"author": "丹尼尔·卡尼曼",
+						"title": "思考，快与慢",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/975/573975/s_573975.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "839124",
+						"author": "罗尔夫·多贝里",
+						"title": "清醒思考的艺术：你最好让别人去犯的52种思维错误",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/124/839124/s_839124.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "39607006_7fVO219wg",
+			"createTime": 1584488408,
+			"collectCount": 7025,
+			"collectedCount": 7025,
+			"name": "工作学习",
+			"description": "磨刀不误砍柴工",
+			"author": {
+				"userVid": 39607006,
+				"name": "千",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0011-zBLC6bMZDFDS7uyzs7fcqaa/0",
+				"remark": ""
+			},
+			"totalCount": 76,
+			"books": [
+				{
+					"type": 1,
+					"bookInfo": {
+						"bookId": "921790",
+						"author": "约翰·S·戈登",
+						"title": "伟大的博弈（珍藏版）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/790/921790/s_921790.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					},
+					"lectureInfo": {
+						"user": {
+							"userVid": 26218392
+						}
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "25804225",
+						"author": "游梓翔",
+						"title": "制胜谈判：36步骤达成合作双赢",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/225/25804225/s_25804225.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "920548",
+						"author": "阿图·葛文德",
+						"title": "清单革命：如何持续、正确、安全地把事情做好",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/548/920548/s_920548.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "61849066_74Iy3WZja",
+			"createTime": 1544997614,
+			"collectCount": 6784,
+			"collectedCount": 6784,
+			"name": "日本小书",
+			"description": "温馨治愈的日系书",
+			"author": {
+				"userVid": 61849066,
+				"name": "☘窈麻麻🍭",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0023-cpjREq91~FcQgIPfwCOW_91/0",
+				"remark": "",
+				"nick": "☘窈麻麻🍭"
+			},
+			"totalCount": 11,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "22523966",
+						"author": "小川糸",
+						"title": "山茶文具店",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/966/22523966/s_22523966.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "861050",
+						"author": "是枝裕和",
+						"title": "步履不停",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/50/861050/s_861050.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "907253",
+						"author": "青山七惠",
+						"title": "一个人的好天气",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/253/907253/s_907253.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7gD3dhAti",
+			"createTime": 1586944726,
+			"collectCount": 6687,
+			"collectedCount": 6687,
+			"name": "讲谈社中国的历史",
+			"description": "外国人如何看待中国的历史",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 10,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "22749302",
+						"author": "宫本一夫",
+						"title": "从神话到历史：神话时代 夏王朝",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/302/22749302/s_22749302.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "22749304",
+						"author": "平势隆郎",
+						"title": "从城市国家到中华：殷周·春秋·战国",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/304/22749304/s_22749304.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "22749306",
+						"author": "鹤间和幸",
+						"title": "始皇帝的遗产：秦汉帝国",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/306/22749306/s_22749306.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "15171683_7eXLoFBaU",
+			"createTime": 1581077980,
+			"collectCount": 6536,
+			"collectedCount": 6536,
+			"name": "理想国译丛",
+			"description": "我喜欢的丛书。",
+			"author": {
+				"userVid": 15171683,
+				"name": "阿庚",
+				"avatar": "https://wx.qlogo.cn/mmhead/O5IB5rptd1rFRMib9JFI30EopTpDJtKia0bMKdQobMnicaicrklhRZYTrg/0",
+				"remark": ""
+			},
+			"totalCount": 56,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "39273386",
+						"author": "亚当·图兹",
+						"title": "崩盘：全球金融危机如何重塑世界",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/386/39273386/s_39273386.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "36206853",
+						"author": "西蒙·沙玛",
+						"title": "风雨横渡：英国、奴隶和美国革命",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/853/36206853/s_36206853.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "38887464",
+						"author": "亚当·图兹",
+						"title": "滔天洪水（理想国译丛45）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/464/38887464/s_38887464.jpg",
+						"payType": 1048577,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "44915726_7gdxTrFB9",
+			"createTime": 1585496027,
+			"collectCount": 6520,
+			"collectedCount": 6520,
+			"name": "经典 古籍",
+			"description": "古老 广阔 深刻的东方思想",
+			"author": {
+				"userVid": 44915726,
+				"name": "困知勉行 修身以俟",
+				"avatar": "https://wx.qlogo.cn/mmhead/PiajxSqBRaEJe0B126GVd230LgbiaTLmSncrmzvDtNdttrCCNWZ7r8HQ/0",
+				"remark": "",
+				"nick": "困知勉行 修身以俟"
+			},
+			"totalCount": 11,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "26189112",
+						"author": "孔子",
+						"title": "四书·五经",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/112/26189112/s_26189112.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "314203",
+						"author": "文史哲",
+						"title": "鬼谷子（白话全译）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/203/314203/s_314203.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "25445395",
+						"author": "佚名",
+						"title": "易经（中华国学经典精粹）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/395/25445395/s_25445395.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "250301226_7cv5WM1Kd",
+			"createTime": 1572406370,
+			"collectCount": 6491,
+			"collectedCount": 6491,
+			"name": "如何提高沟通，表达能力",
+			"description": "一些话术，心理学，情商，演讲",
+			"author": {
+				"userVid": 250301226,
+				"name": "一只站在枝头的松鼠",
+				"avatar": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM6walTCEMN9taswt1ibxXBaxVS6dGBBblzff8kqvWMzicZQ/0",
+				"remark": "",
+				"nick": "一只站在枝头的松鼠"
+			},
+			"totalCount": 63,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "758828",
+						"author": "成杰",
+						"title": "魔鬼搭讪学：瞬间与陌生人成为朋友",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/828/758828/s_758828.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "23050408",
+						"author": "许荣富",
+						"title": "语言的艺术",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/408/23050408/s_23050408.jpg",
+						"payType": 1,
+						"type": 0,
+						"soldout": 1
+					}
+				},
+				{
+					"type": 1,
+					"bookInfo": {
+						"bookId": "856239",
+						"author": "马歇尔·卢森堡",
+						"title": "非暴力沟通",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/239/856239/s_856239.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					},
+					"lectureInfo": {
+						"user": {
+							"userVid": 282471376
+						}
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "67362070_72EmIWFKf",
+			"createTime": 1537716796,
+			"collectCount": 6408,
+			"collectedCount": 6408,
+			"name": "永远的经典",
+			"description": "读你千遍也不厌倦，读你的感觉像春天，喜悦的经典，醉人的诗篇……",
+			"author": {
+				"userVid": 67362070,
+				"name": "我想静静",
+				"avatar": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM4JwK9jm45KJPqLCLicuqlalXRwoKibOJuhbXLhoZicZ2Yibw/0",
+				"remark": ""
+			},
+			"totalCount": 8,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "911443",
+						"author": "老舍",
+						"title": "骆驼祥子",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/443/911443/s_911443.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "425797",
+						"author": "玛格丽特·米切尔",
+						"title": "飘（世界文学名著典藏）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/797/425797/s_425797.jpg",
+						"payType": 1,
+						"type": 0,
+						"soldout": 1
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "23433628",
+						"author": "沈从文",
+						"title": "边城",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/628/23433628/s_23433628.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7gD3c1spn",
+			"createTime": 1586944708,
+			"collectCount": 6345,
+			"collectedCount": 6345,
+			"name": "最权威莎士比亚全集",
+			"description": "《莎士比亚全集·英汉双语本》最真实的文本、最权威的辑注、最诗体的译本",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 14,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "818303",
+						"author": "莎士比亚",
+						"title": "哈姆莱特：英汉对照（莎士比亚悲剧系列）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/303/818303/s_818303.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "818302",
+						"author": "威廉·莎士比亚",
+						"title": "奥瑟罗：英汉对照（莎士比亚悲剧系列）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/302/818302/s_818302.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "818304",
+						"author": "威廉·莎士比亚",
+						"title": "科利奥兰纳斯：英汉对照（莎士比亚悲剧系列）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/304/818304/s_818304.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "13339852_76PNkmY7c",
+			"createTime": 1552452430,
+			"collectCount": 6181,
+			"collectedCount": 6181,
+			"name": "计算机入门必读",
+			"description": "计算机新手入门书单",
+			"author": {
+				"userVid": 13339852,
+				"name": "方长青",
+				"avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTKEIEIibMvO5PFTqLxZFYIno2H2O8LckKYfyCSpFsdk7hUuHvGcuxF8icU1IicVbINmiatibVibNDdlycHw/132",
+				"remark": ""
+			},
+			"totalCount": 6,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "907761",
+						"author": "矢泽久雄",
+						"title": "程序是怎样跑起来的",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/761/907761/s_907761.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "907764",
+						"author": "上野宣",
+						"title": "图解HTTP",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/764/907764/s_907764.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "907760",
+						"author": "矢泽久雄",
+						"title": "计算机是怎样跑起来的",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/760/907760/s_907760.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7maUC9EAI",
+			"createTime": 1606476130,
+			"collectCount": 6129,
+			"collectedCount": 6129,
+			"name": "《文豪野犬》异能书单",
+			"description": "这些角色的异能出处，你知道多少？",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 36,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "24987275",
+						"author": "中岛敦",
+						"title": "山月记",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/275/24987275/s_24987275.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "26835096",
+						"author": "太宰治",
+						"title": "人间失格（太宰治作品精选集）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/96/26835096/s_26835096.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "754056",
+						"author": "江户川乱步",
+						"title": "人间椅子",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/56/754056/s_754056.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "8210198_6Oh3ZO3Cl",
+			"createTime": 1487090629,
+			"collectCount": 5978,
+			"collectedCount": 5978,
+			"name": "你是厉害的古言",
+			"description": "我心目中的五星级古言，多么博大和温柔才写得出来。",
+			"author": {
+				"userVid": 8210198,
+				"name": "meing",
+				"avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83eozSXtykAsElZZxy7NAlUJGuDdLRpQIubibT1QrRrFZROKbxVeZyVqOQqkjoxNe6KP9gMw2bhAMdnw/132",
+				"remark": ""
+			},
+			"totalCount": 17,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "23485001",
+						"author": "桐华",
+						"title": "步步惊心（刘诗诗 吴奇隆主演）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/1/23485001/s_23485001.jpg",
+						"payType": 12290,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "27778126",
+						"author": "偏方方",
+						"title": "首辅娇娘",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/126/27778126/s_27778126.jpg",
+						"payType": 8194,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "32485326",
+						"author": "闲听落花",
+						"title": "墨桑",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/326/32485326/s_32485326.jpg",
+						"payType": 8194,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7oes5R2wi",
+			"createTime": 1613720431,
+			"collectCount": 5881,
+			"collectedCount": 5881,
+			"name": "如何成为一个学习高手？",
+			"description": "是时候刷新你的学习方法了！",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 13,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "912425",
+						"author": "古典",
+						"title": "跃迁：成为高手的技术（附赠高手秘籍和时间管理秘籍）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/425/912425/s_912425.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "573926",
+						"author": "斯科特·扬",
+						"title": "如何高效学习：1年完成麻省理工4年33门课程的整体性学习法",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/926/573926/s_573926.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "843464",
+						"author": "安德斯·艾利克森 罗伯特·普尔(Robe",
+						"title": "刻意练习：如何从新手到大师",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/464/843464/s_843464.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "50129527_78FXCpJjp",
+			"createTime": 1558937085,
+			"collectCount": 5850,
+			"collectedCount": 5850,
+			"name": "做父母的修养",
+			"description": "选了几本书，了解孩子，了解自己，了解家庭，学会解救自己。没有细读，有几本就算没有孩子没有婚姻也值得一读再读。",
+			"author": {
+				"userVid": 50129527,
+				"name": "艾特木易",
+				"avatar": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM4dwAtj6OpMq8yoO46FCQJHiaAE8VeuJQv2VyyCib9BficiaQ/0",
+				"remark": ""
+			},
+			"totalCount": 35,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "31230619",
+						"author": "劳伦斯·科恩",
+						"title": "游戏力养育",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/619/31230619/s_31230619.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "22620242",
+						"author": "苏珊·福沃德博士 克雷格·巴克",
+						"title": "原生家庭：如何修补自己的性格缺陷",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/242/22620242/s_22620242.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "856239",
+						"author": "马歇尔·卢森堡",
+						"title": "非暴力沟通",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/239/856239/s_856239.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "218040980_7gfFja4Hv",
+			"createTime": 1585616420,
+			"collectCount": 5829,
+			"collectedCount": 5829,
+			"name": "销售心理学",
+			"description": "找对人，弄懂人，搞定人，人对了，事儿就对了！",
+			"author": {
+				"userVid": 218040980,
+				"name": "Superhero💪🏻",
+				"avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/8VibZbBIDaeBE3aabv4L5zW6kA73rFyAU3niazRu34zrDEcjR2ATfc0uB6FicXBNzKZgXScYt1BJz2t6m7HtppaXg/132",
+				"remark": ""
+			},
+			"totalCount": 30,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "676747",
+						"author": "周斌",
+						"title": "消费心理学",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/747/676747/s_676747.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "25506338",
+						"author": "倪建伟",
+						"title": "爆发式赢单：金牌销售实战手记",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/338/25506338/s_25506338.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "928692",
+						"author": "徐浩",
+						"title": "销售巨人",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/692/928692/s_928692.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7gD3dkkth",
+			"createTime": 1586944727,
+			"collectCount": 5724,
+			"collectedCount": 5724,
+			"name": "枕边禁书",
+			"description": "这些书是很不容易才走进经典殿堂的",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 10,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "856101",
+						"author": "劳伦斯",
+						"title": "查泰莱夫人的情人（纪念版）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/101/856101/s_856101.jpg",
+						"payType": 1,
+						"type": 0,
+						"soldout": 1
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "907258",
+						"author": "弗拉基米尔·纳博科夫",
+						"title": "洛丽塔",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/258/907258/s_907258.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "758878",
+						"author": "亨利·米勒",
+						"title": "黑色的春天",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/878/758878/s_758878.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7hcrCnEWZ",
+			"createTime": 1588955092,
+			"collectCount": 5680,
+			"collectedCount": 5680,
+			"name": "如何碾压一个推理迷？",
+			"description": "如此聪慧的我，被作者从头骗到尾！",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 10,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "728522",
+						"author": "阿加莎·克里斯蒂",
+						"title": "罗杰疑案",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/522/728522/s_728522.jpg",
+						"payType": 1048577,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "25121810",
+						"author": "约翰·迪克森·卡尔",
+						"title": "三口棺材",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/810/25121810/s_25121810.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "23193084",
+						"author": "岛田庄司",
+						"title": "占星术杀人魔法",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/84/23193084/s_23193084.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "13500121_7cBndz26z",
+			"createTime": 1572762994,
+			"collectCount": 5633,
+			"collectedCount": 5633,
+			"name": "运营必读",
+			"description": "身边很多做运营或者想要转型运营的小伙伴经常会问我读什么书，在这里给大家整理一下我推荐的哦。一起努力！",
+			"author": {
+				"userVid": 13500121,
+				"name": "九月",
+				"avatar": "https://wx.qlogo.cn/mmhead/gwhELYibibFdRymnH45apBrno0hjWgDbPg2j0XbqPvLkmIefszDiaa1sQ/0",
+				"remark": ""
+			},
+			"totalCount": 25,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "35374447",
+						"author": "张俊杰",
+						"title": "内容平台：产品运营方案与实践",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/447/35374447/s_35374447.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "910547",
+						"author": "李明轩",
+						"title": "运营有道：重新定义互联网运营",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/547/910547/s_910547.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "22651299",
+						"author": "秋叶 萧秋水 刘勇",
+						"title": "微博营销与运营",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/299/22651299/s_22651299.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "209046524_7di0jjqly",
+			"createTime": 1575184418,
+			"collectCount": 5289,
+			"collectedCount": 5289,
+			"name": "古代文学",
+			"description": "多看一页\n少熬一夜",
+			"author": {
+				"userVid": 209046524,
+				"name": "平",
+				"avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/BibNJMmWh0GgH36yGruia7NCxJEsuvhhbh9z60jKLtUUK2IeFTANWoFcEyANjCCJ4jibXbBv1vibJsibSicBe7RSoWZw/132",
+				"remark": "",
+				"nick": "平"
+			},
+			"totalCount": 33,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "26832413",
+						"author": "袁行霈",
+						"title": "中国文学史纲·魏晋南北朝 隋唐五代文学(第四版)",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/413/26832413/s_26832413.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "919888",
+						"author": "吴楚材 吴调侯",
+						"title": "古文观止（上）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/888/919888/s_919888.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "931848",
+						"author": "骆玉明解注 细井徇撰绘",
+						"title": "诗经",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/848/931848/s_931848.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "3000816_79e5NTHW8",
+			"createTime": 1560875791,
+			"collectCount": 5324,
+			"collectedCount": 5324,
+			"name": "茅盾文学奖",
+			"description": "茅盾文学奖是中国作家协会主办的长篇小说奖，是中国文学界最高荣誉之一。至第十届止，共有48部长篇小说、48位作家获奖。",
+			"author": {
+				"userVid": 3000816,
+				"name": "四海非海",
+				"avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTK0ZsxHQHoTgR7K0icOY3yicVBvSDccl0ZTTq34b5eqnmIUN9Apyv2RQcFBURhf1LGheDibibbbRoDrLA/132",
+				"remark": "",
+				"nick": "四海非海"
+			},
+			"totalCount": 51,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "23303706",
+						"author": "魏巍",
+						"title": "东方（全集）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/706/23303706/s_23303706.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "702665",
+						"author": "周克芹",
+						"title": "许茂和他的女儿们",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/665/702665/s_702665.jpg",
+						"payType": 1,
+						"type": 0,
+						"soldout": 1
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "23303905",
+						"author": "莫应丰",
+						"title": "将军吟",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/905/23303905/s_23303905.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7lumXr9gX",
+			"createTime": 1604059686,
+			"collectCount": 5261,
+			"collectedCount": 5261,
+			"name": "写作是门手艺",
+			"description": "如何写一个吸引人的故事？\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 20,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "568797",
+						"author": "罗伯特·麦基",
+						"title": "故事：材质、结构、风格和银幕剧作的原理",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/797/568797/s_568797.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "24264351",
+						"author": "罗伯特·麦基",
+						"title": "对白：文字、舞台、银幕的言语行为艺术",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/351/24264351/s_24264351.jpg",
+						"payType": 1,
+						"type": 0,
+						"soldout": 1
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "908726",
+						"author": "理查德·沃尔特",
+						"title": "剧本",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/726/908726/s_908726.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "35220557_7457WSWwC",
+			"createTime": 1542758481,
+			"collectCount": 5239,
+			"collectedCount": 5239,
+			"name": "个人成长类",
+			"description": "越早看，越受益-前提是要践行。个人公众号：产品黑客训练营",
+			"author": {
+				"userVid": 35220557,
+				"name": "御风逐鹿",
+				"avatar": "https://wx.qlogo.cn/mmhead/SMibYFCw2795DxQ3cWzxG3hiaBvFIVXF1RntSp1lmYzNU/0",
+				"remark": "",
+				"nick": "御风逐鹿"
+			},
+			"totalCount": 12,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "825435",
+						"author": "采铜",
+						"title": "精进：如何成为一个很厉害的人",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/435/825435/s_825435.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "22654723",
+						"author": "霁色",
+						"title": "高效能人士的笔记整理术：正确记录你的生活和工作",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/723/22654723/s_22654723.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "918311",
+						"author": "萧秋水 剽悍一只猫",
+						"title": "知识变现",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/311/918311/s_918311.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "370751078_7eflrxeBO",
+			"createTime": 1578554992,
+			"collectCount": 5202,
+			"collectedCount": 5202,
+			"name": "基金投资",
+			"description": "内容：指数基金、基金定投、基金估值、定投策略、执行定投",
+			"author": {
+				"userVid": 370751078,
+				"name": "吳承恩",
+				"avatar": "https://wx.qlogo.cn/mmhead/PiajxSqBRaEJK20TTQ9a0BcnXq5lv8OOP2BQ1ZiaLFmuve8xIqu0VGpg/0",
+				"remark": ""
+			},
+			"totalCount": 5,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "23735081",
+						"author": "老罗",
+						"title": "基金定投：让财富滚雪球",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/81/23735081/s_23735081.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "26785834",
+						"author": "季凯帆",
+						"title": "解读基金：我的投资观与实践（修订版）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/834/26785834/s_26785834.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "921090",
+						"author": "银行螺丝钉",
+						"title": "指数基金投资指南",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/90/921090/s_921090.jpg",
+						"payType": 1048577,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "215551973_78BWKokrH",
+			"createTime": 1558709085,
+			"collectCount": 4988,
+			"collectedCount": 4988,
+			"name": "法医秦明",
+			"description": "万劫不复有鬼手，太平人间存佛心",
+			"author": {
+				"userVid": 215551973,
+				"name": "虞美人💚",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0015-fJmYjINAr3YQmZXJXBczu92/0",
+				"remark": "",
+				"nick": "虞美人💚"
+			},
+			"totalCount": 10,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "856811",
+						"author": "法医秦明",
+						"title": "守夜者",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/811/856811/s_856811.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "23665742",
+						"author": "法医秦明",
+						"title": "守夜者（套装共2册）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/742/23665742/s_23665742.jpg",
+						"payType": 12290,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "815527",
+						"author": "法医秦明",
+						"title": "法医秦明第4季：清道夫",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/527/815527/s_815527.jpg",
+						"payType": 524289,
+						"type": 0,
+						"soldout": 1
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "17402403_7fkGA6EP0",
+			"createTime": 1582379974,
+			"collectCount": 4898,
+			"collectedCount": 4898,
+			"name": "关于女权",
+			"description": "我要成为一束光，不必等待流萤。",
+			"author": {
+				"userVid": 17402403,
+				"name": "初吻",
+				"avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83erfNAMQqZTloMdJ5dIz03B9hyFEK3FQKMaMVSmWSWr9VGr9wjysic0IR4licSbxrlcMibdV3tgv2cIYg/132",
+				"remark": "",
+				"nick": "初吻"
+			},
+			"totalCount": 38,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "934369",
+						"author": "西蒙娜·德·波伏瓦",
+						"title": "第二性（合卷本）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/369/934369/s_934369.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "30212113",
+						"author": "埃莱娜·费兰特",
+						"title": "那不勒斯四部曲",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/113/30212113/s_30212113.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "3001413000",
+						"author": "上野千鹤子",
+						"title": "父权制与资本主义（厌女作者上野千鹤子新作，女权声明，思考女性地位与男女平等）",
+						"cover": "http://img13.360buyimg.com/n12/s428x616_jfs/t1/117489/33/2324/290756/5ea14adcE6e9a3c46/35522ab295463830.jpg",
+						"payType": 0,
+						"type": 0,
+						"soldout": 1
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "1100169_6POW7WHkG",
+			"createTime": 1492536243,
+			"collectCount": 4874,
+			"collectedCount": 4874,
+			"name": "商业的本质",
+			"description": "回归商业的本质",
+			"author": {
+				"userVid": 1100169,
+				"name": "Ryan",
+				"avatar": "https://wx.qlogo.cn/mmhead/VVRCJ2A7yjkG9YVvjD0ROGpVQb3K6ia8aCVjtDKWCdkw/0",
+				"remark": ""
+			},
+			"totalCount": 21,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "837932",
+						"author": "彼得·考夫曼",
+						"title": "穷查理宝典：查理·芒格智慧箴言录",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/932/837932/s_837932.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "815574",
+						"author": "杰克·韦尔奇 苏茜·韦尔奇",
+						"title": "商业的本质",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/574/815574/s_815574.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "912846",
+						"author": "理查德·布兰森",
+						"title": "致所有疯狂的家伙：维珍创始人理查德·布兰森自传",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/846/912846/s_912846.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "11817383_77EL7TfEp",
+			"createTime": 1555347225,
+			"collectCount": 4669,
+			"collectedCount": 4669,
+			"name": "读英文版一举两得-Fiction",
+			"description": "没空学英语的偷懒办法；书单限制500本，感觉需要分成两个书单了…收藏的亲们也一起订阅一下呗，好推动电子版早点上线呢",
+			"author": {
+				"userVid": 11817383,
+				"name": "Sophie, SoFarSoGood",
+				"avatar": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM6sfQ9EcicicQXBEE72YnGXLdKeVzQiaefaIdVfJoibzAsvbA/0",
+				"remark": "",
+				"nick": "Sophie, SoFarSoGood"
+			},
+			"totalCount": 369,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "801847",
+						"author": "William Somerset Maugham",
+						"title": "The Moon and Sixpence",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/847/801847/s_801847.jpg",
+						"payType": 4129,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "804843",
+						"author": "Homer",
+						"title": "THE ILIAD",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/843/804843/s_804843.jpg",
+						"payType": 4129,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "3001252605",
+						"author": "E. B. White",
+						"title": "Charlotte's Web夏洛的网 英文原版",
+						"cover": "http://img13.360buyimg.com/n12/s428x616_jfs/t718/169/965365845/34486/75f564ed/550be533N5e8b991e.jpg",
+						"payType": 0,
+						"type": 0,
+						"soldout": 1
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "19595697_78mBrw82b",
+			"createTime": 1557837564,
+			"collectCount": 4642,
+			"collectedCount": 4642,
+			"name": "二十四史",
+			"description": "以史为鉴知兴替",
+			"author": {
+				"userVid": 19595697,
+				"name": "不很肥美的兔子🐰",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0023-~UhcHRz9FT46zs~Uwmium85/0",
+				"remark": "",
+				"nick": "不很肥美的兔子🐰"
+			},
+			"totalCount": 9,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "25205927",
+						"author": "李定一",
+						"title": "中华史纲",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/927/25205927/s_25205927.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "814931",
+						"author": "陈寿",
+						"title": "三国志（上）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/931/814931/s_814931.jpg",
+						"payType": 4129,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "840760",
+						"author": "司马迁",
+						"title": "史记",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/760/840760/s_840760.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "17987166_77NDrLOls",
+			"createTime": 1555851392,
+			"collectCount": 4600,
+			"collectedCount": 4600,
+			"name": "思考与方法论",
+			"description": "人意识到自己的局限性，才变得聪明起来",
+			"author": {
+				"userVid": 17987166,
+				"name": "惑乱帖",
+				"avatar": "https://wx.qlogo.cn/mmhead/Szib8ySqErWJHjia1IsBayjEWiaaol2wOCzIEKRTnYRjiaL1YAw8lzmNZQ/0",
+				"remark": ""
+			},
+			"totalCount": 5,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "573975",
+						"author": "丹尼尔·卡尼曼",
+						"title": "思考，快与慢",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/975/573975/s_573975.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "23839290",
+						"author": "戴夫·格雷",
+						"title": "阈限思维：改变并没有想象的那么难",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/290/23839290/s_23839290.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "23692279",
+						"author": "理查德·德威特",
+						"title": "世界观：现代人必须要懂的科学哲学和科学史（原书第2版）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/279/23692279/s_23692279.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7khOE7oOd",
+			"createTime": 1599825034,
+			"collectCount": 4580,
+			"collectedCount": 4580,
+			"name": "#全球最贵书单#比尔·盖茨书单",
+			"description": "全世界最有钱的人，会读什么书呢？\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 15,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "30573102",
+						"author": "伊迪丝·伊娃·埃格尔",
+						"title": "拥抱可能",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/102/30573102/s_30573102.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "30966548",
+						"author": "罗伯特·艾格 乔尔·洛弗尔",
+						"title": "一生的旅程：迪士尼CEO自述",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/548/30966548/s_30966548.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "30634201",
+						"author": "阿比吉特·班纳吉 埃斯特·迪弗洛",
+						"title": "好的经济学（独家定制版）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/201/30634201/s_30634201.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "267961501_77qNhjAfn",
+			"createTime": 1554553993,
+			"collectCount": 4505,
+			"collectedCount": 4505,
+			"name": "投资理财",
+			"description": "个人理财 | 投资/基金/股票 | 债券/期货/国债 | 基金定投/指数基金 | 个人创业 | 会计| 税收  | 股市入门/实战 | 保险 | ",
+			"author": {
+				"userVid": 267961501,
+				"name": "浮生若梦",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0007-Qdyp~j5T4hrLubbqezTlt95/0",
+				"remark": ""
+			},
+			"totalCount": 30,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "573975",
+						"author": "丹尼尔·卡尼曼",
+						"title": "思考，快与慢",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/975/573975/s_573975.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "928738",
+						"author": "博多·舍费尔",
+						"title": "财务自由之路Ⅰ：7年内赚到你的第一个1000万",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/738/928738/s_928738.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "837932",
+						"author": "彼得·考夫曼",
+						"title": "穷查理宝典：查理·芒格智慧箴言录",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/932/837932/s_837932.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "249475738_7bDamL0p1",
+			"createTime": 1569343206,
+			"collectCount": 4474,
+			"collectedCount": 4474,
+			"name": "经济/金融类   书单（7～9分书）",
+			"description": "书单主要推荐：各类经济原理，金融事件，投资思想。",
+			"author": {
+				"userVid": 249475738,
+				"name": "夕惕若厉",
+				"avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/ZCzibAm5oRqNSficueTDiabdic9PiaqGJW0kEB2lwOkpZcK0lptz15tkqskPE3qM5UVXNAj3J6XJJyH8zBNdCuQoBqA/132",
+				"remark": ""
+			},
+			"totalCount": 109,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "25404267",
+						"author": "里奇·卡尔加德 迈克尔·马隆",
+						"title": "如何创建天才团队",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/267/25404267/s_25404267.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "25663550",
+						"author": "翟东升",
+						"title": "中国为什么有前途：对外经济关系的战略潜能（第3版）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/550/25663550/s_25663550.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "33577958",
+						"author": "张磊",
+						"title": "价值：我对投资的思考",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/958/33577958/s_33577958.jpg",
+						"payType": 1048577,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7pV8AcQz3",
+			"createTime": 1619666581,
+			"collectCount": 4512,
+			"collectedCount": 4512,
+			"name": "豆瓣电影top250原著",
+			"description": "收藏起来，慢慢看吧~",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 36,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "24444501",
+						"author": "斯蒂芬·金",
+						"title": "肖申克的救赎（同名电影原著）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/501/24444501/s_24444501.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "809774",
+						"author": "温斯顿·葛鲁姆",
+						"title": "阿甘正传（同名电影原著）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/774/809774/s_809774.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "24242765",
+						"author": "托马斯·肯尼利",
+						"title": "辛德勒名单（现当代外国文学系列）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/765/24242765/s_24242765.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7gD3e80jr",
+			"createTime": 1586944739,
+			"collectCount": 4465,
+			"collectedCount": 4465,
+			"name": "你终将成为你自己",
+			"description": "只有你能决定自己的归属。",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 10,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "26713355",
+						"author": "塔拉·韦斯特弗",
+						"title": "你当像鸟飞往你的山",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/355/26713355/s_26713355.jpg",
+						"payType": 524289,
+						"type": 0,
+						"soldout": 1
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "25164497",
+						"author": "路遥",
+						"title": "人生",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/497/25164497/s_25164497.jpg",
+						"payType": 524289,
+						"type": 0,
+						"soldout": 1
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "23697420",
+						"author": "珍妮特·温特森",
+						"title": "橘子不是唯一的水果",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/420/23697420/s_23697420.jpg",
+						"payType": 524289,
+						"type": 0,
+						"soldout": 1
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "32842169_7ahqexNfl",
+			"createTime": 1564586523,
+			"collectCount": 4424,
+			"collectedCount": 4424,
+			"name": "喜欢的言情小说",
+			"description": "精湛文笔编织出的人间纯爱",
+			"author": {
+				"userVid": 32842169,
+				"name": "天台上的树",
+				"avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/YTscfwEn3A7sMx8wia5SEdr4L1YIHVtiaQbkh489WmCEFF3eYQjmr4h1Y8piaib6senctqiahUzhIDmTEYzsQ0AiavXw/132",
+				"remark": ""
+			},
+			"totalCount": 134,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "839597",
+						"author": "张晚知",
+						"title": "凤还巢：典藏版（全集）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/597/839597/s_839597.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "26134185",
+						"author": "雪中回眸",
+						"title": "娘娘她总是不上进",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/185/26134185/s_26134185.jpg",
+						"payType": 8194,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "31701622",
+						"author": "十四郎",
+						"title": "蓁蓁美人心",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/622/31701622/s_31701622.jpg",
+						"payType": 8194,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "222249425_7f8wYk5Hp",
+			"createTime": 1581689567,
+			"collectCount": 4415,
+			"collectedCount": 4415,
+			"name": "学习方法论（理论+实践）",
+			"description": "科学的方法+有效的执行力",
+			"author": {
+				"userVid": 222249425,
+				"name": "枫",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0022-6DmR6KmQyfbeT0IcN9bWaa1/0",
+				"remark": ""
+			},
+			"totalCount": 11,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "909882",
+						"author": "斯蒂芬·盖斯",
+						"title": "微习惯：简单到不可能失败的自我管理法则",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/882/909882/s_909882.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "921826",
+						"author": "米哈里·契克森米哈赖",
+						"title": "心流：最优体验心理学",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/826/921826/s_921826.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "29599973",
+						"author": "刘媛媛",
+						"title": "精准努力：刘媛媛的逆袭课",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/973/29599973/s_29599973.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7eH6wQ5Mg",
+			"createTime": 1580131735,
+			"collectCount": 4398,
+			"collectedCount": 4398,
+			"name": "科学防控疫情，学会更好保护自己",
+			"description": "新型冠状病毒来袭，看书保护自己",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 11,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "27913443",
+						"author": "中国疾病预防控制中心",
+						"title": "新型冠状病毒感染的肺炎公众防护指南",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/443/27913443/s_27913443.jpg",
+						"payType": 4129,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "27845976",
+						"author": "何剑峰 宋铁主编",
+						"title": "新型冠状病毒感染防护",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/976/27845976/s_27845976.jpg",
+						"payType": 4129,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "27897569",
+						"author": "浙江省疾病预防控制中心",
+						"title": "新型冠状病毒感染的肺炎预防手册",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/569/27897569/s_27897569.jpg",
+						"payType": 4129,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "391139040_7ib28eulx",
+			"createTime": 1592396558,
+			"collectCount": 4390,
+			"collectedCount": 4390,
+			"name": "一生必读的文学经典",
+			"description": "这几本文学经典，本本跪着读完！",
+			"author": {
+				"userVid": 391139040,
+				"name": "读客熊猫君阅读",
+				"avatar": "https://wx.qlogo.cn/mmhead/PiajxSqBRaEKHvvzodPfaPfFOYPKmxulklbsbdznuNzGERFwibtbqBibw/0",
+				"remark": "",
+				"nick": "读客熊猫君阅读"
+			},
+			"totalCount": 8,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "26998455",
+						"author": "A.S.拜厄特",
+						"title": "巴别塔",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/455/26998455/s_26998455.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "30579534",
+						"author": "劳伦斯·布洛克",
+						"title": "八百万种死法",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/534/30579534/s_30579534.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "29979124",
+						"author": "A.S.拜厄特",
+						"title": "静物",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/124/29979124/s_29979124.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7hhYn0mAi",
+			"createTime": 1589269099,
+			"collectCount": 4374,
+			"collectedCount": 4374,
+			"name": "讲谈社·兴亡的世界史系列",
+			"description": "这是一部“动态的世界史”，在“世界”和“历史”两个方面刷新着你的认知。",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 10,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "27563210",
+						"author": "森谷公俊等",
+						"title": "讲谈社·兴亡的世界史（全九卷）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/210/27563210/s_27563210.jpg",
+						"payType": 1048577,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "27563191",
+						"author": "森谷公俊",
+						"title": "亚历山大的征服与神话（讲谈社·兴亡的世界史 01）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/191/27563191/s_27563191.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "27563194",
+						"author": "本村凌二",
+						"title": "地中海世界与罗马帝国（讲谈社·兴亡的世界史 02）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/194/27563194/s_27563194.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "215027212_7bUwmqJhH",
+			"createTime": 1570328960,
+			"collectCount": 4257,
+			"collectedCount": 4257,
+			"name": "人物传记",
+			"description": "幻世传奇一书装， 是非成败且徜徉。 缤纷人生各精彩， 千人千面牵人肠。",
+			"author": {
+				"userVid": 215027212,
+				"name": "塵影",
+				"avatar": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM5cfbrpr3md4K4WCChwhsCLkHv1gqjK6ASJLGHaQ7ru5Q/0",
+				"remark": ""
+			},
+			"totalCount": 41,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "909021",
+						"author": "关河五十州",
+						"title": "谋帅刘伯承",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/21/909021/s_909021.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "24020241",
+						"author": "一行禅师",
+						"title": "佛陀传：全世界影响力最大的佛陀传记",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/241/24020241/s_24020241.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "37685432",
+						"author": "季红真",
+						"title": "萧红大传（民国名人传记：插图本）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/432/37685432/s_37685432.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "14359814_7gggdzEjd",
+			"createTime": 1585650235,
+			"collectCount": 4071,
+			"collectedCount": 4071,
+			"name": "半小时漫画系列",
+			"description": "把学不懂的历史融入漫画",
+			"author": {
+				"userVid": 14359814,
+				"name": "大晴天",
+				"avatar": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM4kQQOUF8gDAl5bPvHYB6icFMUoM0x9ZVXeWqibBiaSqtykg/0",
+				"remark": "",
+				"nick": "大晴天"
+			},
+			"totalCount": 6,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "855893",
+						"author": "二混子",
+						"title": "半小时漫画中国史（全新修订版）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/893/855893/s_855893.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "26998459",
+						"author": "陈磊·半小时漫画团队",
+						"title": "半小时漫画唐诗2",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/459/26998459/s_26998459.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "25411023",
+						"author": "陈磊·半小时漫画团队",
+						"title": "半小时漫画唐诗（第1册）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/23/25411023/s_25411023.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7oRKJrwLp",
+			"createTime": 1615952715,
+			"collectCount": 4059,
+			"collectedCount": 4059,
+			"name": "你想过去看心理医生吗？",
+			"description": "带你走过人生的低谷。",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 22,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "33902518",
+						"author": "岸见一郎 古贺史健",
+						"title": "勇气两部曲：“自我启发之父”阿德勒的哲学课纪念套装（共2册）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/518/33902518/s_33902518.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "34389621",
+						"author": "M.斯科特·派克",
+						"title": "少有人走的路（1-8套装）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/621/34389621/s_34389621.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "26406758",
+						"author": "中村恒子 奥田弘美",
+						"title": "人间值得",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/758/26406758/s_26406758.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "12709596_7fVdisOAF",
+			"createTime": 1584454754,
+			"collectCount": 4053,
+			"collectedCount": 4053,
+			"name": "方法应用",
+			"description": "学习，阅读，自我管理",
+			"author": {
+				"userVid": 12709596,
+				"name": "曾经的橙",
+				"avatar": "https://wx.qlogo.cn/mmhead/zO8aKE6MZ18UqKib4NGIzoOicMjwkXuDTLiacM4xUFZ71w/0",
+				"remark": ""
+			},
+			"totalCount": 74,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "23691233",
+						"author": "肖恩·扬",
+						"title": "如何想到又做到",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/233/23691233/s_23691233.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "909884",
+						"author": "斋藤孝",
+						"title": "深阅读：信息爆炸时代我们如何读书",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/884/909884/s_909884.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "573975",
+						"author": "丹尼尔·卡尼曼",
+						"title": "思考，快与慢",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/975/573975/s_573975.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "75013104_79SRgYT9u",
+			"createTime": 1563191289,
+			"collectCount": 3955,
+			"collectedCount": 3955,
+			"name": "《世界格局》",
+			"description": "分析历史使人进步、变得聪慧。",
+			"author": {
+				"userVid": 75013104,
+				"name": "岁月静好",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0026-~wuT0klfg_tvy8~V2Ktpk82/0",
+				"remark": "",
+				"nick": "岁月静好"
+			},
+			"totalCount": 6,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "907292",
+						"author": "王伟",
+						"title": "看懂世界格局的第一本书2：大国之略",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/292/907292/s_907292.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "907291",
+						"author": "王伟",
+						"title": "看懂世界格局的第一本书1：大国博弈",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/291/907291/s_907291.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "815315",
+						"author": "王伟",
+						"title": "看懂世界格局的第一本书3",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/315/815315/s_815315.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "12807680_70RlXwrqc",
+			"createTime": 1531411269,
+			"collectCount": 3915,
+			"collectedCount": 3915,
+			"name": "成为产品经理",
+			"description": "公众号「尺不卷」有更多深度思考。",
+			"author": {
+				"userVid": 12807680,
+				"name": "尺不卷",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0026-LS114Y9e4CP1s7PT2QJfRb6/0",
+				"remark": "",
+				"nick": "尺不卷"
+			},
+			"totalCount": 55,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "23769213",
+						"author": "冈田武彦",
+						"title": "王阳明大传：知行合一的心学智慧（全集）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/213/23769213/s_23769213.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "921030",
+						"author": "孙隆基",
+						"title": "中国文化的深层结构",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/30/921030/s_921030.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "924615",
+						"author": "史蒂芬·科特勒 杰米·威尔",
+						"title": "盗火：硅谷、海豹突击队和疯狂科学家如何变革我们的工作和生活",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/615/924615/s_924615.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "324203277_7fg4koClS",
+			"createTime": 1582117727,
+			"collectCount": 3879,
+			"collectedCount": 3879,
+			"name": "长篇历史文集",
+			"description": "不定期更新书单",
+			"author": {
+				"userVid": 324203277,
+				"name": "云端皓文",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0020-5utIZJdiL30worHvpzkE6a2/0",
+				"remark": "",
+				"nick": "云端皓文"
+			},
+			"totalCount": 16,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "30883920",
+						"author": "钟毓龙",
+						"title": "上古神话（全四册）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/920/30883920/s_30883920.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "22415847",
+						"author": "高罗佩",
+						"title": "狄仁杰：大唐狄公案（全集）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/847/22415847/s_22415847.jpg",
+						"payType": 12290,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "23410517",
+						"author": "念远怀人",
+						"title": "三十六骑",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/517/23410517/s_23410517.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "391139040_7iaZlJOCf",
+			"createTime": 1592394009,
+			"collectCount": 3798,
+			"collectedCount": 3798,
+			"name": "女性必读！成长必看！",
+			"description": "女性越早看到这些书，越少遭遇来自这个世界的伤害",
+			"author": {
+				"userVid": 391139040,
+				"name": "读客熊猫君阅读",
+				"avatar": "https://wx.qlogo.cn/mmhead/PiajxSqBRaEKHvvzodPfaPfFOYPKmxulklbsbdznuNzGERFwibtbqBibw/0",
+				"remark": "",
+				"nick": "读客熊猫君阅读"
+			},
+			"totalCount": 8,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "660048",
+						"author": "伍绮诗",
+						"title": "无声告白",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/48/660048/s_660048.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "27425993",
+						"author": "皮耶尔·勒迈特",
+						"title": "火光之色",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/993/27425993/s_27425993.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "29979124",
+						"author": "A.S.拜厄特",
+						"title": "静物",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/124/29979124/s_29979124.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7gD3e10f6",
+			"createTime": 1586944737,
+			"collectCount": 3757,
+			"collectedCount": 3757,
+			"name": "工作使我开心",
+			"description": "学点方法论成为一个更厉害的人",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 10,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "921568",
+						"author": "瑞·达利欧",
+						"title": "原则",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/568/921568/s_921568.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "917691",
+						"author": "克里斯蒂娜·沃特克",
+						"title": "OKR工作法：谷歌、领英等顶级公司的高绩效秘籍",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/691/917691/s_917691.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "837618",
+						"author": "凯利·麦格尼格尔",
+						"title": "自控力",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/618/837618/s_837618.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "3307868_7aoBnA1zw",
+			"createTime": 1564994336,
+			"collectCount": 3692,
+			"collectedCount": 3692,
+			"name": "认知提升",
+			"description": "底层逻辑构建足够健壮，上层长出的结果才能足够丰富",
+			"author": {
+				"userVid": 3307868,
+				"name": "NoSleepNoDreams",
+				"avatar": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM5EdAngvYufGCL6eE8CGxzD7xafPs7mNTHvJTCgfT2xWw/0",
+				"remark": "",
+				"nick": "NoSleepNoDreams"
+			},
+			"totalCount": 20,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "834333",
+						"author": "芭芭拉·明托",
+						"title": "金字塔原理（麦肯锡40年经典培训教材）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/333/834333/s_834333.jpg",
+						"payType": 1,
+						"type": 0,
+						"soldout": 1
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "34171832",
+						"author": "黄有璨",
+						"title": "非线性成长：不确定时代下的职业发展和商业通关策略",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/832/34171832/s_34171832.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "23416522",
+						"author": "莫琳·希凯",
+						"title": "深度思考：不断逼近问题的本质",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/522/23416522/s_23416522.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7gD3d54FS",
+			"createTime": 1586944723,
+			"collectCount": 3669,
+			"collectedCount": 3669,
+			"name": "建立历史观，该看什么书？",
+			"description": "欲知大道，必先为史！",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 15,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "854911",
+						"author": "费正清 崔瑞德等",
+						"title": "剑桥中国史（全集）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/911/854911/s_854911.jpg",
+						"payType": 1048577,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "854912",
+						"author": "崔瑞德 鲁惟一编 张书生 杨品泉校订",
+						"title": "剑桥中国秦汉史（公元前221年至公元220年）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/912/854912/s_854912.jpg",
+						"payType": 1048577,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "854913",
+						"author": "崔瑞德",
+						"title": "剑桥中国隋唐史（589-906年）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/913/854913/s_854913.jpg",
+						"payType": 1048577,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "7735518_799mUGDzt",
+			"createTime": 1560607465,
+			"collectCount": 3553,
+			"collectedCount": 3553,
+			"name": "学习的方法",
+			"description": "磨刀不误砍柴工，学习的方法如同柴刀，掌握好这门技能不难，但性价比却超高，是成人阅读的首选书籍。最重要的一句话：学而时习之！学而不践，止步不前！",
+			"author": {
+				"userVid": 7735518,
+				"name": "淡墨清痕",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0030-0w0HDwc35pCZf38hPKkVi9c/0",
+				"remark": ""
+			},
+			"totalCount": 31,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "35648489",
+						"author": "吉姆·奎克",
+						"title": "无限可能：快速唤醒你的学习脑",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/489/35648489/s_35648489.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "28387292",
+						"author": "秋叶",
+						"title": "秋叶特训营系列（套装全3册）（内含时间管理、高效学习、写作7堂课）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/292/28387292/s_28387292.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "925174",
+						"author": "邱昭良",
+						"title": "如何系统思考",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/174/925174/s_925174.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "4100003_7cRaiLiTu",
+			"createTime": 1573659965,
+			"collectCount": 3541,
+			"collectedCount": 3541,
+			"name": "投资书籍",
+			"description": "多读书，少亏钱",
+			"author": {
+				"userVid": 4100003,
+				"name": "佳威",
+				"avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/4PZfzKvFwib3pJZyAku4ET9RWLIoUfGBxmTo5PpibaGPOsHnH7iclfVYhnygaZJvW47HpNoRflibQQwpbUqeDIkszg/132",
+				"remark": ""
+			},
+			"totalCount": 105,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "3000015180",
+						"author": "罗杰·洛温斯坦",
+						"title": "赌金者：长期资本管理公司的升腾与陨落",
+						"cover": "https://weread-picture-1258476243.file.myqcloud.com/outpic/180/3000015180.jpg",
+						"payType": 524289,
+						"type": 0,
+						"soldout": 1
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "38151697",
+						"author": "劳伦斯·A.坎宁安 斯蒂芬妮·库珀",
+						"title": "巴菲特的嘉年华：伯克希尔股东大会的故事",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/697/38151697/s_38151697.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "3003704807",
+						"author": "燕翔，战迪",
+						"title": "追寻价值之路：1990～2020年中国股市行情复盘",
+						"cover": "https://weread-picture-1258476243.file.myqcloud.com/outpic/807/3003704807.jpg",
+						"payType": 0,
+						"type": 0,
+						"soldout": 1
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "254316262_7eVEGfX6w",
+			"createTime": 1580958226,
+			"collectCount": 3534,
+			"collectedCount": 3534,
+			"name": "思考与思维",
+			"description": "知乎大神推荐的，看完我就无敌了！",
+			"author": {
+				"userVid": 254316262,
+				"name": "Castaway",
+				"avatar": "https://wx.qlogo.cn/mmhead/PiajxSqBRaEL5DcbBFGKNdJcf9KkyL9ib01xS1NzicnYYqE3nbJgMc6QQ/0",
+				"remark": "",
+				"nick": "Castaway"
+			},
+			"totalCount": 12,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "26832320",
+						"author": "陈波",
+						"title": "逻辑学十五讲（第二版）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/320/26832320/s_26832320.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "3000000927",
+						"author": "欧文·M·柯匹 /卡尔·科恩 ",
+						"title": "逻辑学导论（第13版）",
+						"cover": "https://res.weread.qq.com/extcover/600285792",
+						"payType": 0,
+						"type": 0,
+						"soldout": 1
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "674058",
+						"author": "布鲁克·诺埃尔·摩尔 理查德·帕克",
+						"title": "批判性思维（原书第10版）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/58/674058/s_674058.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "19607009_77qVeOomb",
+			"createTime": 1554561285,
+			"collectCount": 3507,
+			"collectedCount": 3507,
+			"name": "经济学必备",
+			"description": "给你讲述最有意思的经济学故事",
+			"author": {
+				"userVid": 19607009,
+				"name": "王坤元",
+				"avatar": "https://wx.qlogo.cn/mmhead/ibLButGMnqJPBeudfibs1icZto0su6H9ibYrYX87L7X5dZcCwa5ZFaVUMQ/0",
+				"remark": ""
+			},
+			"totalCount": 8,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "22671828",
+						"author": "史蒂文·兰兹伯格",
+						"title": "反常识经济学1：生活中的经济游戏",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/828/22671828/s_22671828.jpg",
+						"payType": 1,
+						"type": 0,
+						"soldout": 1
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "650985",
+						"author": "亚当·斯密",
+						"title": "国富论",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/985/650985/s_650985.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "23524667",
+						"author": "罗伯特·L.海尔布隆纳",
+						"title": "哈佛极简经济学",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/667/23524667/s_23524667.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7gD3cnanh",
+			"createTime": 1586944713,
+			"collectCount": 3461,
+			"collectedCount": 3461,
+			"name": "商业大佬们的私人书单",
+			"description": "比你牛的人比你聪明更比你勤奋",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 8,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "840673",
+						"author": "菲尔·奈特",
+						"title": "鞋狗：耐克创始人菲尔·奈特亲笔自传",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/673/840673/s_840673.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "788370",
+						"author": "雷·库兹韦尔",
+						"title": "奇点临近",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/370/788370/s_788370.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "674049",
+						"author": "里德利",
+						"title": "理性乐观派：一部人类经济进步史",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/49/674049/s_674049.jpg",
+						"payType": 1,
+						"type": 0,
+						"soldout": 1
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7m0eftXQh",
+			"createTime": 1605869315,
+			"collectCount": 3450,
+			"collectedCount": 3450,
+			"name": "充满无力感的平庸人生值得经历吗",
+			"description": "即使不能拥有完美生活，所幸追求过完整的自我。",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 20,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "34246627",
+						"author": "威廉·博伊德",
+						"title": "凡人之心",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/627/34246627/s_34246627.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "831600",
+						"author": "约翰·威廉斯",
+						"title": "斯通纳",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/600/831600/s_831600.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "841490",
+						"author": "安·兰德",
+						"title": "源泉",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/490/841490/s_841490.jpg",
+						"payType": 12290,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7nHcCYKMi",
+			"createTime": 1611831854,
+			"collectCount": 3443,
+			"collectedCount": 3443,
+			"name": "你不是迷茫，而是自制力不强！",
+			"description": "如何增强自控力、意志力、行动力？",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 15,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "837618",
+						"author": "凯利·麦格尼格尔",
+						"title": "自控力",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/618/837618/s_837618.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "649601",
+						"author": "简·博克 莱诺拉·袁",
+						"title": "拖延心理学",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/601/649601/s_649601.jpg",
+						"payType": 1,
+						"type": 0,
+						"soldout": 1
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "909882",
+						"author": "斯蒂芬·盖斯",
+						"title": "微习惯：简单到不可能失败的自我管理法则",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/882/909882/s_909882.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7gD3dV9rf",
+			"createTime": 1586944736,
+			"collectCount": 3442,
+			"collectedCount": 3442,
+			"name": "你当像鸟飞往你的山",
+			"description": "女人的一生何其艰难又何其绚烂",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 10,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "26713355",
+						"author": "塔拉·韦斯特弗",
+						"title": "你当像鸟飞往你的山",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/355/26713355/s_26713355.jpg",
+						"payType": 524289,
+						"type": 0,
+						"soldout": 1
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "26998455",
+						"author": "A.S.拜厄特",
+						"title": "巴别塔",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/455/26998455/s_26998455.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "26346556",
+						"author": "赵南柱",
+						"title": "82年生的金智英",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/556/26346556/s_26346556.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7n0jvjTwJ",
+			"createTime": 1609395744,
+			"collectCount": 3378,
+			"collectedCount": 3378,
+			"name": "2021新年礼物：你的文学品读课",
+			"description": "这些伟大的文学经典到底在讲什么？",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 25,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "24953420",
+						"author": "伊塔洛·卡尔维诺",
+						"title": "为什么读经典",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/420/24953420/s_24953420.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "856071",
+						"author": "哈罗德·布鲁姆",
+						"title": "如何读，为什么读？（名家文学讲坛）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/71/856071/s_856071.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "23796290",
+						"author": "苏珊·桑塔格",
+						"title": "反对阐释（2018年版）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/290/23796290/s_23796290.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7gD3e2Qit",
+			"createTime": 1586944737,
+			"collectCount": 3343,
+			"collectedCount": 3343,
+			"name": "这是来自史学的野心",
+			"description": "全球史、大历史视野中的中国史。",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 13,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "27563210",
+						"author": "森谷公俊等",
+						"title": "讲谈社·兴亡的世界史（全九卷）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/210/27563210/s_27563210.jpg",
+						"payType": 1048577,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "854911",
+						"author": "费正清 崔瑞德等",
+						"title": "剑桥中国史（全集）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/911/854911/s_854911.jpg",
+						"payType": 1048577,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "912418",
+						"author": "卜正民 陆威仪 罗威廉 迪特·库恩",
+						"title": "哈佛中国史（套装全6册）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/418/912418/s_912418.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7oerOVXR5",
+			"createTime": 1613720181,
+			"collectCount": 3318,
+			"collectedCount": 3318,
+			"name": "我喜欢人生快活的样子",
+			"description": "活下去，就得活得一天比一天快乐。",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 15,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "25444603",
+						"author": "蔡澜",
+						"title": "我喜欢人生快活的样子",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/603/25444603/s_25444603.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "913196",
+						"author": "汪曾祺",
+						"title": "生活是很好玩的",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/196/913196/s_913196.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "22719585",
+						"author": "老舍",
+						"title": "把日子过得有趣",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/585/22719585/s_22719585.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "87560503_77jee5fdK",
+			"createTime": 1554124279,
+			"collectCount": 3250,
+			"collectedCount": 3250,
+			"name": "麦肯锡系列",
+			"description": "工作方法，逻辑思维",
+			"author": {
+				"userVid": 87560503,
+				"name": "琉璃花",
+				"avatar": "https://wx.qlogo.cn/mmhead/6t0VDe9bl5ekIONnMgx5vpIzxdowN8KBxfPTWx43DZKo9sfEuJmlRQ/0",
+				"remark": ""
+			},
+			"totalCount": 16,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "915187",
+						"author": "齐藤显一 竹内里子",
+						"title": "麦肯锡图表工作法",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/187/915187/s_915187.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "907058",
+						"author": "刘易斯",
+						"title": "麦肯锡极简工作法",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/58/907058/s_907058.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "24053005",
+						"author": "卫斯理",
+						"title": "麦肯锡工作思维",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/5/24053005/s_24053005.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7mixce1fK",
+			"createTime": 1606909077,
+			"collectCount": 3241,
+			"collectedCount": 3241,
+			"name": "他们对人生这件事怎么看？",
+			"description": "在这些自传里，遇见你未能见识的人生。",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 30,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "25614391",
+						"author": "欧文·D.亚隆",
+						"title": "成为我自己：欧文·亚隆回忆录",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/391/25614391/s_25614391.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "22289881",
+						"author": "阿加莎·克里斯蒂",
+						"title": "阿加莎·克里斯蒂自传",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/881/22289881/s_22289881.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "29348532",
+						"author": "斯蒂芬·韦斯塔比",
+						"title": "打开一颗心",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/532/29348532/s_29348532.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "17026754_7e02t4kSt",
+			"createTime": 1577685605,
+			"collectCount": 3244,
+			"collectedCount": 3244,
+			"name": "逻辑思维类",
+			"description": "还差书单6、8，微信读书赛高",
+			"author": {
+				"userVid": 17026754,
+				"name": "青九",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0002-2BpZQI41XF8Kd3YqIy12s92/0",
+				"remark": "",
+				"nick": "青九"
+			},
+			"totalCount": 11,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "23549116",
+						"author": "叶修",
+						"title": "深度思维：透过复杂直抵本质的跨越式成长方法论",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/116/23549116/s_23549116.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "621674",
+						"author": "罗尔夫·多贝里",
+						"title": "清醒思考的艺术",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/674/621674/s_621674.jpg",
+						"payType": 1,
+						"type": 0,
+						"soldout": 1
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "3000016480",
+						"author": "殷海光",
+						"title": "逻辑新引",
+						"cover": "https://res.weread.qq.com/extcover/600280810",
+						"payType": 0,
+						"type": 0,
+						"soldout": 1
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "9607082_7eiZwCJQB",
+			"createTime": 1578762113,
+			"collectCount": 3229,
+			"collectedCount": 3229,
+			"name": "中医学典籍",
+			"description": "护你周全是一辈子的事",
+			"author": {
+				"userVid": 9607082,
+				"name": "胡卫涛",
+				"avatar": "https://wx.qlogo.cn/mmhead/HmVQlX9WkBskMZsoqmQ2n5PWJibZWh3W2JX3pZoon0dlqV3pDDt41xg/0",
+				"remark": ""
+			},
+			"totalCount": 111,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "854628",
+						"author": "郭谦亨编著 郭冠英整理",
+						"title": "《温病条辨》评释",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/628/854628/s_854628.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "26188354",
+						"author": "杨克新",
+						"title": "图解：人体经络养生全书",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/354/26188354/s_26188354.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "27360313",
+						"author": "任廷革",
+						"title": "任应秋讲《黄帝内经》灵枢经",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/313/27360313/s_27360313.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "30822176_7c1B4l2a1",
+			"createTime": 1570730875,
+			"collectCount": 3224,
+			"collectedCount": 3224,
+			"name": "思维练习",
+			"description": "清理一下脑子里的浆糊",
+			"author": {
+				"userVid": 30822176,
+				"name": "Mangkii",
+				"avatar": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM5ib6jmToqH1PttIiaxpQNSV2KCHLb2QZ1nnhgtp8iaIQ6lw/0",
+				"remark": ""
+			},
+			"totalCount": 6,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "850101",
+						"author": "布兰登·罗伊尔",
+						"title": "一本小小的蓝色逻辑书",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/101/850101/s_850101.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "833467",
+						"author": "赤羽雄二",
+						"title": "零秒思考",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/467/833467/s_833467.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "621674",
+						"author": "罗尔夫·多贝里",
+						"title": "清醒思考的艺术",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/674/621674/s_621674.jpg",
+						"payType": 1,
+						"type": 0,
+						"soldout": 1
+					}
+				}
+			]
+		},
+		{
+			"booklistId": "352003193_7gD3dH0xv",
+			"createTime": 1586944732,
+			"collectCount": 3223,
+			"collectedCount": 3223,
+			"name": "上帝掷骰子吗？",
+			"description": "人人都能看懂的科普书",
+			"author": {
+				"userVid": 352003193,
+				"name": "微信读书团队",
+				"avatar": "https://res.weread.qq.com/wravatar/WV0012-H2b9V3NVkGuZIjZrjvqQG9c/0",
+				"remark": ""
+			},
+			"totalCount": 7,
+			"books": [
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "25622039",
+						"author": "曹天元",
+						"title": "上帝掷骰子吗？：量子物理史话（升级版）",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/39/25622039/s_25622039.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "25123238",
+						"author": "乔治·伽莫夫",
+						"title": "从一到无穷大",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/238/25123238/s_25123238.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				},
+				{
+					"type": 0,
+					"bookInfo": {
+						"bookId": "913190",
+						"author": "汪洁",
+						"title": "星空的琴弦：天文学史话",
+						"cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/190/913190/s_913190.jpg",
+						"payType": 4097,
+						"type": 0,
+						"soldout": 0
+					}
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,5 @@
+## Mary%!B(MISSING)arton（III）%!玛(MISSING)丽·巴顿（英文版）
+
+E.C. Gaskell  -  原版书榜-英文原版
+
+> Gaskell's desire to accurately represent the poverty of industrial Manchester is evident in a record of a visit she made to the home of a local labourer. It is a subject of some debate whether the first person narrator in Mary Barton is synonymous with Gaskell. The story begins in Manchester, where we are introduced to the Bartons and the Wilsons, two working-class families. John Barton is a questioner of the distribution of wealth and the relations between rich and poor. Soon his wife dies—he blames it on her grief over the disappearance of her sister Esther. Having already lost his son Tom at a young age, Barton is left to raise his daughter, Mary, alone and now falls into depression and begins to involve himself in the Chartist, trade-union movement. Mary Barton is the first novel published in 1848 by English author Elizabeth Gaskell. The story is set in Manchester, and deals with the difficulties faced by the Victorian lower class. It is subtitled 'A Tale of Manchester Life'.

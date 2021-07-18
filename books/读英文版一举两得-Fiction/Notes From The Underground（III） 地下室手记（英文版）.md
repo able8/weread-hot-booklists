@@ -1,0 +1,5 @@
+## Notes From The Underground（III） 地下室手记（英文版）
+
+Fyodor Dostoyevsky  -  原版书榜-英文原版
+
+> Notes from Underground (also translated in English as Notes from the Underground or Letters from the Underworld while Notes from Underground is the most literal translation) is an 1864 novel by Fyodor Dostoevsky, who is a Russian novelist, short story writer, essayist, journalist and philosopher. It is considered by many to be one of the world's first existentialist novels. It presents itself as an excerpt from the rambling memoirs of a bitter, isolated, unnamed narrator (generally referred to by critics as the Underground Man) who is a retired civil servant living in St. Petersburg. The first part of the story is told in monologue form, or the underground man's diary, and attacks emerging Western philosophy.The second part of the book is called "Apropos of the Wet Snow" and describes certain events that appear to be destroying and sometimes renewing the underground man, who acts as a first person, unreliable narrator and anti-hero.

@@ -1,0 +1,5 @@
+## The Fall of the House of Usher 厄舍府的没落（英文版）
+
+Allan Poe  -  原版书榜-英文原版
+
+> The Fall of the House of Usher is a short story by American writer Edgar Allan Poe, first published in 1839. It is widely considered Edgar Allan Poe's greatest work, and a masterpiece of Gothic horror. The story begins with the unnamed narrator arriving at the house of his friend, Roderick Usher, who complains of an illness and asking for his help. Roderick's condition can be described according to its terminology. It includes a form of sensory overload known as hyperesthesia, hypochondria, and acute anxiety. It is revealed that Roderick's twin sister, Madeline, is also ill and falls into cataleptic, deathlike trances. The narrator is impressed with Roderick's paintings, and attempts to cheer him by reading with him and listening to his improvised musical compositions on the guitar. Roderick sings "The Haunted Palace", then tells the narrator that he believes the house he lives in to be alive, and that this sentience arises from the arrangement of the masonry and vegetation surrounding it.
