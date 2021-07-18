@@ -53,18 +53,20 @@ type BookInfo struct {
 	NewRatingCount int    `json:"newRatingCount"`
 }
 
+type BestBookMarkItem struct {
+	Bookid     string `json:"bookId"`
+	Uservid    string `json:"userVid"`
+	Bookmarkid string `json:"bookmarkId"`
+	Chapteruid int    `json:"chapterUid"`
+	Range      string `json:"range"`
+	Marktext   string `json:"markText"`
+	Totalcount int    `json:"totalCount"`
+}
+
 type BestBookMarks struct {
-	Totalcount string `json:"totalCount"`
-	Items      []struct {
-		Bookid     string `json:"bookId"`
-		Uservid    string `json:"userVid"`
-		Bookmarkid string `json:"bookmarkId"`
-		Chapteruid int    `json:"chapterUid"`
-		Range      string `json:"range"`
-		Marktext   string `json:"markText"`
-		Totalcount int    `json:"totalCount"`
-	} `json:"items"`
-	Chapters []struct {
+	Totalcount string             `json:"totalCount"`
+	Items      []BestBookMarkItem `json:"items"`
+	Chapters   []struct {
 		Bookid     string `json:"bookId"`
 		Chapteruid int    `json:"chapterUid"`
 		Chapteridx int    `json:"chapterIdx"`
@@ -94,7 +96,7 @@ func getBookLists() {
 	fmt.Fprintln(f, "# 微信读书热门收藏书单")
 
 	for index, booklist := range booklists.Booklists {
-		fmt.Println(index, booklist.BooklistId, booklist.CollectCount, booklist.Name, booklist.Description, booklist.TotalCount)
+		log.Println(index, booklist.Name, booklist.CollectCount, booklist.TotalCount)
 		fmt.Fprintln(f, "\n###", strconv.Itoa(index+1), booklist.Name)
 		fmt.Fprintln(f, "\n"+booklist.Description)
 
@@ -107,7 +109,13 @@ func getBookLists() {
 			booklist.Name = strings.ReplaceAll(booklist.Name, "/", "-")
 			bookInfo.Title = strings.ReplaceAll(bookInfo.Title, "/", "-")
 			fmt.Fprintf(f, "\n1. [%s](books/%s/%s.md)", bookInfo.Title, booklist.Name, strings.ReplaceAll(bookInfo.Title, " ", "%20"))
-			getBestBookMarks(bookInfo, booklist.Name)
+
+			bestMark := getBestBookMarks(bookInfo, booklist.Name)
+			if bestMark.Totalcount > 10 {
+				fmt.Fprintln(f, "\n\t<details open>\n\t<summary>"+strconv.Itoa(bestMark.Totalcount)+" marks </summary>")
+				fmt.Fprintln(f, "\t", bestMark.Marktext)
+				fmt.Fprintln(f, "\t</details>")
+			}
 		}
 		fmt.Fprintln(f, "\n</details>")
 		// os.Exit(1)
@@ -174,7 +182,7 @@ func getAndSaveResponse(id, URL string) ([]byte, error) {
 	return body, err
 }
 
-func getBestBookMarks(bookInfo BookInfo, booklistName string) {
+func getBestBookMarks(bookInfo BookInfo, booklistName string) BestBookMarkItem {
 	bookId := bookInfo.BookId
 
 	booklistName = strings.ReplaceAll(booklistName, "%20", " ")
@@ -204,13 +212,23 @@ func getBestBookMarks(bookInfo BookInfo, booklistName string) {
 		return range1 < range2
 	})
 
-	for _, v := range bestBookMarks.Chapters {
-		fmt.Fprintln(f, "\n###", v.Title)
-		for i := 0; i < len(bestBookMarks.Items); i++ {
-			if bestBookMarks.Items[i].Chapteruid == v.Chapteruid {
-				fmt.Fprintln(f, "\n"+bestBookMarks.Items[i].Marktext+" c:"+strconv.Itoa(bestBookMarks.Items[i].Totalcount))
+	if len(bestBookMarks.Items) > 0 {
+		bestMark := bestBookMarks.Items[0]
+		for _, v := range bestBookMarks.Chapters {
+			fmt.Fprintln(f, "\n###", v.Title)
+			for i := 0; i < len(bestBookMarks.Items); i++ {
+				if bestBookMarks.Items[i].Chapteruid == v.Chapteruid {
+					fmt.Fprintln(f, "\n"+bestBookMarks.Items[i].Marktext+" c:"+strconv.Itoa(bestBookMarks.Items[i].Totalcount))
+				}
+				if bestBookMarks.Items[i].Totalcount > bestMark.Totalcount {
+					bestMark = bestBookMarks.Items[i]
+				}
 			}
 		}
+		if bestMark.Totalcount > 20 {
+			// log.Println(bestMark.Totalcount, bestMark.Marktext)
+			return bestMark
+		}
 	}
-	log.Println("done.")
+	return BestBookMarkItem{}
 }
